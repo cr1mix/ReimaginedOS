@@ -35,6 +35,6 @@ Most users report 30%+ performance improvement compared to stock Windows 11.
 - Ultimate Performance power plan
 - Can only be downloaded on Discord
 
-https://discord.com/invite/W76eHc23xD
+https://discord.com/invite/NjkgT7vXBb
 
 Just a clean, fast Windows — no bloat, no overhead, no compromises.
