@@ -3,7 +3,7 @@
 ![Coming Soon](https://img.shields.io/badge/status-Coming%20Soon-orange?style=for-the-badge)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
-[![Website](https://img.shields.io/badge/Website-cr1mix.github.io%2Freimaginedos--github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
+[![Website](https://img.shields.io/badge/Website-cr1mix.github.io%2Freimaginedos--github.io-red?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
 
 
 **⚠️ Coming Soon** — ReimaginedOS is still in development and has not been released yet. Follow the repository to be the first to know when it drops.
