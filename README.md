@@ -135,27 +135,33 @@ Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 <table>
 <tr>
 
-<td align="center" width="33%" valign="middle">
+<td width="33%" align="center" valign="middle">
 
 <h3>Choose</h3>
 
-<p>Pick the changes you want.</p>
+<p>
+Pick the changes you want.
+</p>
 
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td width="33%" align="center" valign="middle">
 
 <h3>Review</h3>
 
-<p>Check what the selected options do.</p>
+<p>
+Check what the selected options do.
+</p>
 
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td width="33%" align="center" valign="middle">
 
 <h3>Apply</h3>
 
-<p>Only your selections are applied.</p>
+<p>
+Only your selections are applied.
+</p>
 
 </td>
 
@@ -225,49 +231,46 @@ Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 <table>
 <tr>
 
-<td align="center" width="20%">
-
-<strong>01</strong><br>
+<td width="20%" align="center" valign="middle">
+<strong>01</strong>
+<br><br>
 Download
-
 </td>
 
-<td align="center" width="20%">
-
-<strong>02</strong><br>
+<td width="20%" align="center" valign="middle">
+<strong>02</strong>
+<br><br>
 Open in AME Wizard
-
 </td>
 
-<td align="center" width="20%">
-
-<strong>03</strong><br>
+<td width="20%" align="center" valign="middle">
+<strong>03</strong>
+<br><br>
 Review options
-
 </td>
 
-<td align="center" width="20%">
-
-<strong>04</strong><br>
+<td width="20%" align="center" valign="middle">
+<strong>04</strong>
+<br><br>
 Choose your tweaks
-
 </td>
 
-<td align="center" width="20%">
-
-<strong>05</strong><br>
+<td width="20%" align="center" valign="middle">
+<strong>05</strong>
+<br><br>
 Apply
-
 </td>
 
 </tr>
 </table>
 
 <p align="center">
-  Only the options you select are applied.
+  <strong>Only the options you select are applied.</strong>
 </p>
 
-> A fresh, stock Windows installation is recommended before applying the playbook.
+<p align="center">
+  <sub>A fresh, stock Windows installation is recommended before applying the playbook.</sub>
+</p>
 
 ---
 
@@ -305,6 +308,8 @@ Apply
 
 <h2 align="center">FAQ</h2>
 
+<p align="center">
+
 <details>
 <summary><strong>What is ReimaginedOS?</strong></summary>
 
@@ -313,6 +318,8 @@ Apply
 ReimaginedOS is a Windows optimization playbook for AME Wizard focused on performance, debloating, privacy, gaming and system configuration.
 
 </details>
+
+</p>
 
 <details>
 <summary><strong>Does ReimaginedOS automatically remove things?</strong></summary>
@@ -343,6 +350,8 @@ If you still use a Windows component, service or feature, simply skip its option
 
 Yes. ReimaginedOS is designed to run through AME Wizard.
 
+<br>
+
 <a href="https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4">
 Get AME Wizard →
 </a>
@@ -358,7 +367,9 @@ Yes.
 
 Defender is your choice. You can keep it enabled, change selected settings, or disable it if you use another security solution.
 
-> Disabling security features can reduce system security.
+<br><br>
+
+<strong>Warning:</strong> Disabling security features can reduce system security.
 
 </details>
 
