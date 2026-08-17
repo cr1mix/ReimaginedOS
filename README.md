@@ -1,64 +1,64 @@
-````md
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="110" height="110" style="border-radius: 50%;" alt="cr1mix">
-
 # ReimaginedOS
 
-### Windows, reimagined.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="110" alt="cr1mix">
+</p>
 
-A configurable Windows optimization playbook for **AME Wizard**.
+<h3 align="center">Windows, reimagined.</h3>
 
-Performance · Privacy · Debloat · Gaming
+<p align="center">
+  A configurable Windows optimization playbook for <strong>AME Wizard</strong>.
+</p>
 
-<br>
+<p align="center">
+  Performance · Privacy · Debloat · Gaming
+</p>
 
-![Status](https://img.shields.io/badge/STATUS-COMING%20SOON-orange?style=for-the-badge)
-![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Architecture](https://img.shields.io/badge/ARCH-x64-5865F2?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-orange?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/ARCH-x64-5865F2?style=for-the-badge" alt="Architecture">
+</p>
 
-<br>
-
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
-[![Website](https://img.shields.io/badge/WEBSITE-222222?style=for-the-badge&logo=github&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
-[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="820" alt="ReimaginedOS Playbook">
-
-</div>
-
-<br>
+<p align="center">
+  <a href="https://discord.gg/NjkgT7vXBb">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://cr1mix.github.io/reimaginedos-github.io/">
+    <img src="https://img.shields.io/badge/WEBSITE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Website">
+  </a>
+  <a href="https://tiktok.com/@cr1mix">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="850" alt="ReimaginedOS Playbook">
+</p>
+
 ## What is ReimaginedOS?
 
-ReimaginedOS is a **Windows optimization playbook** built for
-[AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4).
+ReimaginedOS is a **Windows optimization playbook** built for [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4).
 
-Instead of applying a huge collection of undocumented tweaks at once, ReimaginedOS gives you control over the changes you want to make.
+It is made for users who want more control over their Windows installation without manually going through hundreds of services, scheduled tasks and system settings.
 
-Choose what you need. Skip what you don't.
+ReimaginedOS does not rely on one huge preset. The playbook is divided into individual options so you can choose what you actually want to change.
 
-> **No forced configuration. No mystery tweaks.**
+> **Choose what you need. Skip what you don't.**
 
-The project is built around four main areas:
+The project focuses on four main areas:
 
 | ⚡ Performance | 🧹 Debloat | 🔒 Privacy | 🎮 Gaming |
 |:---:|:---:|:---:|:---:|
-| Reduce unnecessary background activity | Remove unwanted components | Configure telemetry & privacy | Optional gaming optimizations |
+| Reduce unnecessary background activity | Remove unwanted components | Configure telemetry & privacy | Optional performance tweaks |
 
 ---
 
 # Features
 
-### ⚡ Performance
+## ⚡ Performance
 
 Tune Windows without turning the system into a black box.
 
@@ -69,9 +69,9 @@ Tune Windows without turning the system into a black box.
 - CPU / GPU related tweaks
 - General system performance settings
 
-### 🧹 Debloat
+## 🧹 Debloat
 
-Remove Windows components you don't use.
+Remove Windows components and applications you don't use.
 
 Possible targets include:
 
@@ -83,9 +83,9 @@ Possible targets include:
 - Optional Windows components
 - Unnecessary background services
 
-Everything is configurable through the playbook.
+All changes are configurable through the playbook.
 
-### 🔒 Privacy
+## 🔒 Privacy
 
 Take control over Windows privacy and telemetry settings.
 
@@ -95,11 +95,9 @@ Take control over Windows privacy and telemetry settings.
 - Windows privacy settings
 - Windows Update configuration
 
-The goal isn't to break Windows.
+The goal is to reduce unnecessary background communication while keeping the system usable.
 
-The goal is to let you decide what Windows should actually be doing.
-
-### 🎮 Gaming
+## 🎮 Gaming
 
 Optional settings for users who want a more gaming-focused configuration.
 
@@ -109,17 +107,17 @@ Optional settings for users who want a more gaming-focused configuration.
 - Background process reduction
 - Timer and scheduling configuration
 
-> Performance improvements will vary depending on hardware, drivers and the Windows configuration being used.
+> Performance improvements vary depending on hardware, drivers, games and the existing Windows configuration.
 
 ---
 
-# 🛡️ Defender
+# 🛡️ Windows Defender
 
-Security should be configurable too.
+Security configuration is optional.
 
-ReimaginedOS does not force a single Defender configuration.
+ReimaginedOS gives you control instead of forcing a single Defender setup.
 
-You can choose to:
+You can:
 
 - Keep Microsoft Defender enabled
 - Modify selected Defender settings
@@ -133,9 +131,7 @@ You can choose to:
 
 The playbook handles the initial configuration.
 
-The **ToolBox** is designed to handle the rest.
-
-A lightweight companion application for commonly used Windows controls.
+The **ToolBox** is designed for managing commonly used settings afterwards.
 
 ### Current areas
 
@@ -152,7 +148,7 @@ A lightweight companion application for commonly used Windows controls.
 
 The idea is simple:
 
-**One place for the settings you actually use.**
+**Keep the settings you actually use in one place.**
 
 ---
 
@@ -160,47 +156,40 @@ The idea is simple:
 
 ReimaginedOS currently targets **AMD64 / x64** Windows installations.
 
-<br>
-
-![Windows 10 22H2](https://img.shields.io/badge/WINDOWS%2010-22H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
-![Windows 11 23H2](https://img.shields.io/badge/WINDOWS%2011-23H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
-![Windows 11 24H2](https://img.shields.io/badge/WINDOWS%2011-24H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
-![Windows 11 24H2 LTSC](https://img.shields.io/badge/WINDOWS%2011-24H2%20LTSC-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
-![Windows 11 25H2](https://img.shields.io/badge/WINDOWS%2011-25H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
-<br>
+<p>
+  <img src="https://img.shields.io/badge/WINDOWS%2010-22H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 10 22H2">
+  <img src="https://img.shields.io/badge/WINDOWS%2011-23H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11 23H2">
+  <img src="https://img.shields.io/badge/WINDOWS%2011-24H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11 24H2">
+  <img src="https://img.shields.io/badge/WINDOWS%2011-24H2%20LTSC-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11 24H2 LTSC">
+  <img src="https://img.shields.io/badge/WINDOWS%2011-25H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11 25H2">
+</p>
 
 Support for additional versions may be added as development continues.
 
 ---
 
-# 🔄 How it works
+# 🔄 How It Works
 
-ReimaginedOS is designed around a simple workflow:
+ReimaginedOS is built around a simple workflow:
 
 ```text
-        Windows
-           │
-           ▼
-      AME Wizard
-           │
-           ▼
-   ReimaginedOS Playbook
-           │
-     ┌─────┼─────┐
-     ▼     ▼     ▼
- Performance  Privacy  Debloat
-           │
-           ▼
-        Gaming
-           │
-           ▼
-   Your Windows setup
-````
+Windows
+   │
+   ▼
+AME Wizard
+   │
+   ▼
+ReimaginedOS Playbook
+   │
+   ├── Performance
+   ├── Debloat
+   ├── Privacy
+   ├── Gaming
+   └── System Configuration
+   │
+   ▼
+Your Windows Setup
+```
 
 ### 01 — Choose
 
@@ -208,15 +197,15 @@ Open the playbook in AME Wizard and review the available options.
 
 ### 02 — Configure
 
-Select only the components and tweaks you actually want.
+Select only the components and tweaks you want.
 
 ### 03 — Apply
 
 AME Wizard applies the selected configuration to Windows.
 
-### 04 — Fine tune
+### 04 — Fine-tune
 
-Use the ReimaginedOS ToolBox for additional configuration after the initial setup.
+Use the ReimaginedOS ToolBox for additional configuration afterwards.
 
 ---
 
@@ -224,9 +213,9 @@ Use the ReimaginedOS ToolBox for additional configuration after the initial setu
 
 Before using ReimaginedOS you will need:
 
-* A supported **64-bit Windows installation**
-* Administrator privileges
-* [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
+- A supported **64-bit Windows installation**
+- Administrator privileges
+- [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
 
 ### Recommended
 
@@ -238,12 +227,10 @@ A fresh, stock Windows installation.
 
 # 🚧 Project Status
 
-<div align="center">
-
-![Coming Soon](https://img.shields.io/badge/RELEASE-COMING%20SOON-orange?style=for-the-badge)
-![Development](https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/RELEASE-COMING%20SOON-orange?style=for-the-badge" alt="Coming Soon">
+  <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=for-the-badge" alt="Development">
+</p>
 
 ReimaginedOS is currently under development.
 
@@ -261,7 +248,7 @@ When the project is ready, releases will be published through GitHub.
 
 The first public release has not been published yet.
 
-Once released, installation will be:
+Once released:
 
 ```text
 1. Download AME Wizard
@@ -277,16 +264,12 @@ Once released, installation will be:
 6. Apply
 ```
 
-No complicated setup.
-
 ---
 
 # ❓ FAQ
 
 <details>
 <summary><strong>What is ReimaginedOS?</strong></summary>
-
-<br>
 
 ReimaginedOS is a Windows optimization playbook for AME Wizard focused on performance, privacy, debloating and gaming-oriented configuration.
 
@@ -295,33 +278,25 @@ ReimaginedOS is a Windows optimization playbook for AME Wizard focused on perfor
 <details>
 <summary><strong>Is ReimaginedOS a custom Windows ISO?</strong></summary>
 
-<br>
-
 No.
 
-ReimaginedOS is an **AME Wizard playbook** rather than a modified Windows ISO.
+ReimaginedOS is an **AME Wizard playbook**, not a modified Windows ISO.
 
 </details>
 
 <details>
 <summary><strong>Do I need AME Wizard?</strong></summary>
 
-<br>
-
 Yes.
 
 ReimaginedOS is designed to run through AME Wizard.
 
-You can find AME Wizard here:
-
-https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4
+[Download AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
 
 </details>
 
 <details>
-<summary><strong>Is it released?</strong></summary>
-
-<br>
+<summary><strong>Is ReimaginedOS released?</strong></summary>
 
 Not yet.
 
@@ -332,42 +307,25 @@ The project is currently in development and testing.
 <details>
 <summary><strong>Can I keep Windows Defender?</strong></summary>
 
-<br>
-
 Yes.
 
-Defender configuration is optional. You can keep it enabled and simply skip the Defender-related changes.
+Defender configuration is optional. You can keep it enabled and skip Defender-related changes.
 
 </details>
 
 <details>
 <summary><strong>Will it improve my FPS?</strong></summary>
 
-<br>
-
 There is no universal FPS improvement.
 
-The goal is to reduce unnecessary background activity and configure Windows for a cleaner gaming environment.
+The goal is to reduce unnecessary background activity and provide optional gaming-oriented configuration.
 
-Actual results depend on your hardware, drivers, games and existing Windows configuration.
-
-</details>
-
-<details>
-<summary><strong>Can I undo the changes?</strong></summary>
-
-<br>
-
-Some changes can be reverted while others may require restoring a backup or reinstalling Windows.
-
-Always create a backup before applying major system modifications.
+Actual results depend on your hardware, drivers, games and Windows configuration.
 
 </details>
 
 <details>
 <summary><strong>Is a fresh Windows installation recommended?</strong></summary>
-
-<br>
 
 Yes.
 
@@ -375,38 +333,50 @@ A clean Windows installation is recommended to avoid conflicts with existing mod
 
 </details>
 
+<details>
+<summary><strong>Is it safe?</strong></summary>
+
+ReimaginedOS makes system-level changes, so there is always some risk.
+
+Review every option before applying it and keep a backup of important data.
+
+</details>
+
 ---
 
 # 🔗 Links
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/WEBSITE-222222?style=for-the-badge\&logo=github\&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
-
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/NjkgT7vXBb)
-
-[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@cr1mix)
-
-</div>
+<p align="center">
+  <a href="https://cr1mix.github.io/reimaginedos-github.io/">
+    <img src="https://img.shields.io/badge/WEBSITE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Website">
+  </a>
+  <a href="https://discord.gg/NjkgT7vXBb">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://tiktok.com/@cr1mix">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
 
 ---
 
 # 👤 About
 
-<div align="center">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="100" alt="cr1mix">
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="100" height="100" alt="cr1mix">
+<p align="center">
+  <strong>Made by cr1mix</strong>
+  <br>
+  Building ReimaginedOS to make Windows lighter, cleaner and more configurable.
+</p>
 
-### Made by **cr1mix**
-
-Building ReimaginedOS with the goal of making Windows
-**lighter, cleaner and more configurable.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-cr1mix-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/cr1mix)
-
-</div>
+<p align="center">
+  <a href="https://github.com/cr1mix">
+    <img src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
@@ -416,11 +386,11 @@ ReimaginedOS modifies Windows system settings and components.
 
 Some changes may affect:
 
-* Windows features
-* Applications
-* Security settings
-* System behaviour
-* Windows Update
+- Windows features
+- Applications
+- Security settings
+- System behaviour
+- Windows Update
 
 Use ReimaginedOS at your own risk.
 
@@ -428,21 +398,20 @@ Always keep a backup of important data before applying major system modification
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="70" height="70" alt="cr1mix">
+<img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="70" alt="cr1mix">
 
-<br>
+<br><br>
 
-**ReimaginedOS**
-
-*Windows, reimagined.*
+<strong>ReimaginedOS</strong>
 
 <br>
 
-Made with ❤️ by **cr1mix**
+<em>Windows, reimagined.</em>
 
-</div>
-```
+<br><br>
 
-Questa secondo me è già molto più vicina a un README da **progetto vero e curato**: la prima schermata ha subito logo/avatar, titolo, tagline, badge e screenshot; poi il contenuto diventa più tecnico e non sembra una pubblicità generata.
+Made with ❤️ by <strong>cr1mix</strong>
+
+</p>
