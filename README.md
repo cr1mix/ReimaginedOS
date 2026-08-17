@@ -109,7 +109,7 @@ Optional shortcuts, branding, wallpaper and an `apps` folder.
 
 ---
 
-## Your system. Your choice.
+<h2 align="center">Your system. Your choice.</h2>
 
 <table>
 <tr>
