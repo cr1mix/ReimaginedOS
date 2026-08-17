@@ -4,11 +4,13 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
 [![Website](https://img.shields.io/badge/Website-reimaginedos.pages.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reimaginedos.pages.dev/)
-[![AME Wizard](https://img.shields.io/badge/AME%20Wizard-0078D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
+
 
 **⚠️ Coming Soon** — ReimaginedOS is still in development and has not been released yet. Follow the repository to be the first to know when it drops.
 
 ReimaginedOS is a Windows optimization playbook for [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4) . The idea is simple: Windows should be **fast, clean and yours** — not a storefront with a built-in OS. Every tweak is a question you answer, so nothing gets applied without your say-so.
+
+[![AME Wizard](https://img.shields.io/badge/AME%20Wizard-0078D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
 
 ## ✨ What it does
 
