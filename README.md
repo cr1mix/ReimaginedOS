@@ -1,166 +1,317 @@
+````md
 # ReimaginedOS
 
+<div align="center">
+
+### Windows, reimagined.
+
+A Windows optimization playbook for **AME Wizard** focused on performance, privacy, debloating and control.
+
 ![Status](https://img.shields.io/badge/status-Coming%20Soon-orange?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Architecture](https://img.shields.io/badge/architecture-x64-blue?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-AMD64-blue?style=for-the-badge)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
 [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
 
-> **Windows optimization, without the unnecessary stuff.**
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## What is ReimaginedOS?
 
 ReimaginedOS is a Windows optimization playbook built for [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4).
 
-The project focuses on reducing unnecessary Windows components, background activity and telemetry while giving the user control over what gets changed.
+It is designed for people who want a cleaner Windows installation without having to manually go through hundreds of services, tasks and system settings.
 
-Nothing is applied without your input.
+The playbook lets you choose what you want to change before anything is applied.
+
+**No forced configuration. No mystery tweaks.**
+
+### Built around four things
+
+- ⚡ **Performance** — reduce unnecessary background activity
+- 🧹 **Debloat** — remove Windows components you don't need
+- 🔒 **Privacy** — configure telemetry and tracking-related settings
+- 🎮 **Gaming** — optional performance and latency-oriented tweaks
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" alt="ReimaginedOS Playbook" width="380">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ✨ Features
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ⚡ Performance
 
-- Reduce unnecessary background processes
-- Configure power and performance settings
-- Optional CPU and GPU optimizations
-- Scheduling and timer-related tweaks
-- Reduce unnecessary system activity
+Reduce unnecessary background activity and configure Windows for a lighter setup.
+
+- Background services
+- Scheduled tasks
+- Power plans
+- Timer-related settings
+- CPU / GPU tweaks
+- System performance settings
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧹 Debloat
 
-Remove or disable selected Windows components and applications, including:
+Remove or disable optional Windows components you don't want.
 
 - Microsoft Store
 - OneDrive
 - Widgets
 - Copilot
 - Microsoft Teams
-- Other optional Windows components
+- Other optional components
 
-Changes are optional and can be reviewed before applying them.
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🔒 Privacy
 
-Privacy-focused options include:
+Take control over Windows telemetry and privacy-related configuration.
 
-- Windows telemetry configuration
-- Diagnostic data settings
+- Telemetry settings
+- Diagnostic data
 - Tracking-related services
-- Windows privacy settings
+- Windows privacy options
+- Windows Update configuration
 
-The goal is to reduce unnecessary data collection without forcing a single configuration on everyone.
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎮 Gaming
 
-Optional gaming-oriented settings include:
+Optional tweaks aimed at reducing unnecessary overhead while gaming.
 
-- Power plan configuration
-- Network optimizations
+- Power configuration
+- Network settings
 - Latency-related tweaks
 - Background process reduction
 - Timer and scheduling settings
 
-Results will vary depending on your hardware and Windows configuration.
+</td>
+</tr>
+</table>
 
-### 🛡️ Windows Defender
+---
 
-ReimaginedOS provides options for configuring Microsoft Defender.
+## 🛡️ Defender
 
-You can keep Defender enabled, change specific settings, or disable it if you have another security solution and understand the risks.
+Windows Defender is **your choice**.
 
-> **⚠️ Disabling security features can reduce the security of your system.**
+ReimaginedOS provides different configuration options instead of assuming everyone wants the same setup.
+
+You can:
+
+- Keep Defender enabled
+- Change selected Defender settings
+- Disable Defender if you use another security solution
+
+> **⚠️ Disabling security features can make your system less secure. Only change these settings if you understand the consequences.**
 
 ---
 
 ## 🛠️ ToolBox
 
-ReimaginedOS includes a lightweight companion application for managing commonly used settings after installation.
+The **ReimaginedOS ToolBox** is a lightweight companion application designed for managing common system settings after the initial playbook run.
 
-Current features include:
+### Current functionality
 
-- CPU and GPU settings
-- Service management
-- Wi-Fi controls
-- Bluetooth controls
-- Windows Defender controls
-- Windows Update controls
-- Telemetry settings
-- Power plan management
-- System information
+| Category | Included |
+|---|---|
+| System information | OS, CPU, RAM, GPU, power plan |
+| Services | Service management |
+| Network | Wi-Fi and Bluetooth controls |
+| Performance | CPU / GPU related settings |
+| Windows Update | Update controls |
+| Defender | Defender controls |
+| Privacy | Telemetry settings |
+| Power | Power plan management |
 
-The ToolBox is intended to make common system changes accessible without having to manually navigate through Windows settings.
+The ToolBox is meant to keep commonly used controls in one place instead of making you dig through Windows settings every time.
 
 ---
 
 ## 💻 Supported Systems
 
-ReimaginedOS currently targets **64-bit Windows installations**.
+ReimaginedOS currently targets **AMD64 / x64** Windows installations.
 
-![Windows 10](https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-24H2%20%2B%20LTSC-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 10 22H2](https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11 23H2](https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11 24H2](https://img.shields.io/badge/Windows%2011-24H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11 24H2 LTSC](https://img.shields.io/badge/Windows%2011-24H2%20LTSC-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11 25H2](https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
-Support for additional versions may be added as development continues.
+Support for additional Windows versions may be added as development continues.
+
+---
+
+## 🚀 How it works
+
+ReimaginedOS runs through **AME Wizard**.
+
+```text
+Windows
+   │
+   ▼
+AME Wizard
+   │
+   ▼
+ReimaginedOS Playbook
+   │
+   ├── Performance
+   ├── Debloat
+   ├── Privacy
+   ├── Gaming
+   └── System configuration
+   │
+   ▼
+Your Windows installation
+````
+
+The idea is simple:
+
+**Choose → Review → Apply**
+
+Nothing should change without you knowing what you're applying.
 
 ---
 
 ## 📦 Requirements
 
-Before using ReimaginedOS, make sure you have:
+Before using ReimaginedOS you will need:
 
-- A supported 64-bit Windows installation
-- Administrator access
-- [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
+* A supported 64-bit Windows installation
+* Administrator privileges
+* [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
 
-A fresh Windows installation is recommended.
+A fresh, stock Windows installation is recommended.
 
-> **⚠️ Always back up important files before applying system-level changes.**
-
----
-
-## 🚀 Getting Started
-
-ReimaginedOS is **not released yet**.
-
-Once the first release is available:
-
-1. Download [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4).
-2. Download the latest ReimaginedOS playbook from Releases.
-3. Open the playbook with AME Wizard.
-4. Review the available options.
-5. Select the changes you want.
-6. Apply the configuration.
-
-A clean Windows installation is recommended before running the playbook.
+> **⚠️ Make a backup of important files before applying system-level changes.**
 
 ---
 
-## 📥 Releases
+## 🚧 Current Status
 
-The first public release is currently in development.
+![Coming Soon](https://img.shields.io/badge/Release-Coming%20Soon-orange?style=for-the-badge)
 
-Playbooks, ToolBox releases and other project files will be published through GitHub Releases once they are ready.
+ReimaginedOS is currently in development and being tested before the first public release.
+
+The playbook, ToolBox and supported Windows versions may change during development.
+
+There is currently **no public release date**.
+
+When the project is ready, the playbook and ToolBox will be published through GitHub Releases.
 
 ---
 
-## 📊 Project Status
+## 📥 Installation
 
-![Development](https://img.shields.io/badge/development-active-orange?style=for-the-badge)
-![Release](https://img.shields.io/badge/release-not%20released-red?style=for-the-badge)
+### Not available yet
 
-ReimaginedOS is still being developed and tested.
+The first public release has not been published.
 
-Features, tweaks and supported Windows versions may change before the first public release.
+Once released, the process will be:
 
-The priority is to make the playbook reliable and predictable rather than simply adding as many tweaks as possible.
+1. Download AME Wizard
+2. Download the latest ReimaginedOS release
+3. Open the playbook with AME Wizard
+4. Review the available options
+5. Select what you want to change
+6. Apply the playbook
+
+That's it.
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>What is ReimaginedOS?</b></summary>
+
+ReimaginedOS is a Windows optimization playbook for AME Wizard. It combines debloating, privacy configuration, performance tweaks and optional gaming-oriented settings into one configurable playbook.
+
+</details>
+
+<details>
+<summary><b>Do I need AME Wizard?</b></summary>
+
+Yes. ReimaginedOS is designed to run through AME Wizard.
+
+You can get AME Wizard from its official GitHub release:
+
+https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4
+
+</details>
+
+<details>
+<summary><b>Is ReimaginedOS released?</b></summary>
+
+Not yet. The project is still being developed and tested.
+
+</details>
+
+<details>
+<summary><b>Can I keep Windows Defender?</b></summary>
+
+Yes. Defender configuration is optional.
+
+You can keep it enabled or change its configuration depending on your setup.
+
+</details>
+
+<details>
+<summary><b>Will it work on my Windows installation?</b></summary>
+
+ReimaginedOS currently targets AMD64 versions of Windows 10 22H2 and Windows 11 23H2, 24H2, 24H2 LTSC and 25H2.
+
+</details>
+
+<details>
+<summary><b>Is it safe?</b></summary>
+
+ReimaginedOS makes system-level changes, so there is always some risk.
+
+Every available option should be reviewed before applying it, and a backup is recommended.
+
+</details>
 
 ---
 
 ## 🔗 Links
 
-[![Website](https://img.shields.io/badge/Website-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-GitHub%20Pages-222222?style=for-the-badge\&logo=github\&logoColor=white)](https://cr1mix.github.io/reimaginedos-github.io/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/NjkgT7vXBb)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@cr1mix)
+
+</div>
 
 ---
 
@@ -168,10 +319,21 @@ The priority is to make the playbook reliable and predictable rather than simply
 
 ReimaginedOS modifies Windows system settings and components.
 
-Some changes may affect Windows features, applications, security settings or Windows Update.
+Some changes may affect Windows features, applications, security settings, system behaviour or Windows Update.
 
-Use the playbook at your own risk and make sure you have a backup of important data before making major system changes.
+Use ReimaginedOS at your own risk.
+
+Always keep a backup of important data before applying major system modifications.
 
 ---
 
-Made by **cr1mix**.
+<div align="center">
+
+### ReimaginedOS
+
+**Windows, reimagined.**
+
+Made by **cr1mix**
+
+</div>
+```
