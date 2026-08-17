@@ -32,7 +32,7 @@ Every tweak is optional. Choose what you want to change, skip what you don't, an
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="260" alt="ReimaginedOS Playbook">
 
@@ -141,12 +141,16 @@ Only your selections are applied.
 </tr>
 </table>
 
+<p align="center">
+  <strong>Nothing is forced.</strong>
+</p>
+
 ---
 
 <h2 align="center">ReimaginedOS ToolBox</h2>
 
 <p align="center">
-  <sub>Useful controls for after the initial setup.</sub>
+  <sub>Manage your system after applying the playbook.</sub>
 </p>
 
 <p align="center">
@@ -158,17 +162,17 @@ Only your selections are applied.
 
 <td width="33%" valign="top">
 
-**Maintenance**
+**System**
 
-Flush DNS · Purge RAM · Icon cache · Explorer
+Services, Wi-Fi, Bluetooth and power settings.
 
 </td>
 
 <td width="33%" valign="top">
 
-**System**
+**Performance**
 
-Services · Wi-Fi · Bluetooth · Power · CPU / GPU
+CPU / GPU settings and performance-related controls.
 
 </td>
 
@@ -176,7 +180,7 @@ Services · Wi-Fi · Bluetooth · Power · CPU / GPU
 
 **Information**
 
-Windows · CPU · RAM · GPU · Power plan
+Windows, CPU, RAM, GPU and power plan.
 
 </td>
 
@@ -185,53 +189,17 @@ Windows · CPU · RAM · GPU · Power plan
 
 ---
 
-## How it works
+## Getting started
 
-<table>
-<tr>
+Once released, ReimaginedOS will run through **AME Wizard**.
 
-<td align="center" width="25%">
+1. Download the playbook.
+2. Open it with AME Wizard.
+3. Review the available options.
+4. Select the changes you want.
+5. Apply the configuration.
 
-**01**
-
-<br>
-
-Download
-
-</td>
-
-<td align="center" width="25%">
-
-**02**
-
-<br>
-
-Open in AME Wizard
-
-</td>
-
-<td align="center" width="25%">
-
-**03**
-
-<br>
-
-Choose your tweaks
-
-</td>
-
-<td align="center" width="25%">
-
-**04**
-
-<br>
-
-Apply
-
-</td>
-
-</tr>
-</table>
+Only the options you select are applied.
 
 > A fresh, stock Windows installation is recommended before applying the playbook.
 
@@ -239,14 +207,14 @@ Apply
 
 ## Supported Systems
 
+ReimaginedOS currently targets **AMD64 / x64** Windows installations.
+
 <p>
   <img src="https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10 22H2">
   <img src="https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 23H2">
   <img src="https://img.shields.io/badge/Windows%2011-24H2%20%2B%20LTSC-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 24H2 + LTSC">
   <img src="https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 25H2">
 </p>
-
-**Architecture:** AMD64 / x64
 
 ---
 
@@ -259,6 +227,8 @@ Apply
 
 ReimaginedOS is currently in development and is not publicly released yet.
 
+The playbook and ToolBox are still being tested and refined.
+
 ---
 
 ## FAQ
@@ -268,16 +238,18 @@ ReimaginedOS is currently in development and is not publicly released yet.
 
 <br>
 
-A Windows optimization playbook for AME Wizard focused on performance, debloating, privacy, gaming and system configuration.
+ReimaginedOS is a Windows optimization playbook for AME Wizard focused on performance, debloating, privacy, gaming and system configuration.
 
 </details>
 
 <details>
-<summary><strong>Does it automatically remove things?</strong></summary>
+<summary><strong>Does ReimaginedOS automatically remove things?</strong></summary>
 
 <br>
 
-No. ReimaginedOS is built around user choice. Changes are optional and only the options you select are applied.
+No.
+
+ReimaginedOS is built around user choice. Available changes are optional, and only the options you select are applied.
 
 </details>
 
@@ -286,7 +258,9 @@ No. ReimaginedOS is built around user choice. Changes are optional and only the 
 
 <br>
 
-Yes. Simply skip the option for anything you want to keep.
+Yes.
+
+If you still use a Windows component, service or feature, simply skip its option in the playbook.
 
 </details>
 
@@ -308,7 +282,9 @@ Get AME Wizard →
 
 <br>
 
-Yes. Defender is completely up to you.
+Yes.
+
+Defender is your choice. You can keep it enabled, change selected settings, or disable it if you use another security solution.
 
 > Disabling security features can reduce system security.
 
@@ -368,7 +344,10 @@ Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
 
 <p align="center">
   <a href="https://github.com/cr1mix">
-    <img src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
 </p>
 
