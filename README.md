@@ -25,7 +25,7 @@ ReimaginedOS is a Windows optimization playbook for [AME Wizard](https://github.
 
 ReimaginedOS ships with a lightweight helper app to keep your system sharp after the first run:
 
-- ⚡ One-click maintenance — flush DNS, purge RAM, rebuild icon cache, restart Explorer
+- ⚡customizable cpu gpu tweaks , services wifi , bluetooth all in one app
 - 🎛️ Toggles for Defender, Windows Update, services and telemetry
 - 📊 System info at a glance — OS, CPU, RAM, GPU, power plan
 
