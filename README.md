@@ -1,83 +1,65 @@
 <p align="center">
-  <img
-    src="https://github.com/cr1mix/ReimaginedOS/blob/main/banner.png?raw=true"
-    width="850"
-    alt="ReimaginedOS"
-  >
+  <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/banner.png?raw=true" width="850" alt="ReimaginedOS">
 </p>
 
 <p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/220206221?v=4"
-    width="72"
-    height="72"
-    alt="cr1mix"
-  >
-</p>
-
-<h1 align="center">ReimaginedOS</h1>
-
-<p align="center">
-  <strong>Windows, reimagined.</strong>
-  <br>
-  A configurable Windows optimization playbook for <strong>AME Wizard</strong>.
-</p>
-
-<p align="center">
-  <a href="#features">Features</a>
-  &nbsp;·&nbsp;
-  <a href="#toolbox">ToolBox</a>
-  &nbsp;·&nbsp;
-  <a href="#supported-systems">Supported</a>
-  &nbsp;·&nbsp;
-  <a href="#faq">FAQ</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-orange?style=flat-square" alt="Status">
+  <a href="https://cr1mix.github.io/reimaginedos-github.io/">
+    <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-orange?style=flat-square" alt="Status">
+  </a>
   <img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/ARCH-AMD64-5865F2?style=flat-square" alt="Architecture">
   <a href="https://discord.gg/NjkgT7vXBb">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://cr1mix.github.io/reimaginedos-github.io/">
-    <img src="https://img.shields.io/badge/WEBSITE-222222?style=flat-square&logo=github&logoColor=white" alt="Website">
-  </a>
 </p>
 
 ---
 
-## A Windows that feels like yours.
+<table>
+<tr>
 
-ReimaginedOS is a Windows optimization playbook built for **AME Wizard**.
+<td width="62%" valign="middle">
 
-The idea is simple: Windows should be **fast, clean and yours** — not a storefront with a built-in OS.
+<h2>Windows, reimagined.</h2>
 
+<p>
+ReimaginedOS is a configurable Windows optimization playbook built for <strong>AME Wizard</strong>.
+</p>
+
+<p>
+The idea is simple: Windows should be <strong>fast, clean and yours</strong> — not a storefront with a built-in OS.
+</p>
+
+<p>
 Every tweak is a question you answer, so nothing gets applied without your say-so.
-
-<p align="center">
-  <strong>−70%</strong> fewer processes
-  &nbsp;•&nbsp;
-  <strong>200+</strong> bloat apps removed
-  &nbsp;•&nbsp;
-  <strong>1,700+</strong> verified actions
-  &nbsp;•&nbsp;
-  <strong>100%</strong> your choice
 </p>
 
-<p align="center">
-  <img
-    src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png"
-    width="400"
-    alt="ReimaginedOS Playbook"
-  >
+<br>
+
+<p>
+⚡ <strong>Performance</strong>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+🧹 <strong>Debloat</strong>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+🔒 <strong>Privacy</strong>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+🎮 <strong>Gaming</strong>
 </p>
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="300" alt="ReimaginedOS Playbook">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # Features
-
-ReimaginedOS is built around six core areas.
 
 <table>
 <tr>
@@ -147,14 +129,13 @@ Curated shortcuts, custom branding and wallpaper, and an `apps` folder for every
 
 # ToolBox
 
-A lightweight helper app designed to keep your system sharp after the first run.
+<p>
+The playbook handles the initial setup.
+The <strong>ReimaginedOS ToolBox</strong> keeps your system manageable afterwards.
+</p>
 
 <p align="center">
-  <img
-    src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png"
-    width="520"
-    alt="ReimaginedOS ToolBox"
-  >
+  <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="520" alt="ReimaginedOS ToolBox">
 </p>
 
 <table>
@@ -191,27 +172,61 @@ OS, CPU, RAM, GPU and power plan at a glance.
 
 # How it works
 
-<p align="center">
-  <strong>01</strong> Download
-  &nbsp; → &nbsp;
-  <strong>02</strong> Open in AME Wizard
-  &nbsp; → &nbsp;
-  <strong>03</strong> Choose your tweaks
-  &nbsp; → &nbsp;
-  <strong>04</strong> Apply
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <sub>A fresh, stock Windows installation is recommended before applying the playbook.</sub>
-</p>
+<td align="center" width="25%">
+
+### 01
+
+**Download**
+
+Get the playbook.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**Open**
+
+Load it into AME Wizard.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+**Choose**
+
+Select the tweaks you want.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**Apply**
+
+Let AME Wizard handle the changes.
+
+</td>
+
+</tr>
+</table>
+
+> A fresh, stock Windows installation is recommended before applying the playbook.
 
 ---
 
 # Supported Systems
 
-ReimaginedOS currently targets **AMD64** builds of:
+ReimaginedOS currently targets **AMD64 / x64** Windows installations.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10 22H2">
   <img src="https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 23H2">
   <img src="https://img.shields.io/badge/Windows%2011-24H2%20%2B%20LTSC-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 24H2 + LTSC">
@@ -222,16 +237,16 @@ ReimaginedOS currently targets **AMD64** builds of:
 
 # Project Status
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/RELEASE-COMING%20SOON-orange?style=flat-square" alt="Coming Soon">
   <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=flat-square" alt="Development">
 </p>
 
-ReimaginedOS is still in development and is currently being tested on virtual machines.
+ReimaginedOS is still in development and has not been released yet.
+
+The project is being tested and refined before the first public release.
 
 **No public release date yet.**
-
-Follow the project on GitHub or Discord to be notified when it drops.
 
 ---
 
@@ -242,20 +257,20 @@ Follow the project on GitHub or Discord to be notified when it drops.
 
 <br>
 
-It's still in development and being tested on virtual machines. There is no release date yet.
+ReimaginedOS is still in development. There is no public release date yet.
 
 Follow the repository or Discord to be notified when it drops.
 
 </details>
 
 <details>
-<summary><strong>Is it safe?</strong></summary>
+<summary><strong>What is ReimaginedOS?</strong></summary>
 
 <br>
 
-Every tweak is a question you answer, so nothing is applied without your consent.
+ReimaginedOS is a Windows optimization playbook for **AME Wizard**.
 
-A fresh, stock Windows installation is recommended before applying the playbook.
+It focuses on performance, debloating, privacy, gaming and system customization.
 
 </details>
 
@@ -266,7 +281,7 @@ A fresh, stock Windows installation is recommended before applying the playbook.
 
 Yes.
 
-The playbook runs inside the free, open-source **AME Wizard**.
+The playbook is designed to run through AME Wizard.
 
 <a href="https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4">
 Get AME Wizard →
@@ -279,14 +294,16 @@ Get AME Wizard →
 
 <br>
 
-Of course.
+Yes.
 
-Defender is completely optional. You can remove it, keep it, or choose anything in between.
+Defender is your choice. You can keep it enabled, modify selected settings, or disable it if you use another security solution.
+
+> ⚠️ Disabling security features can reduce system security.
 
 </details>
 
 <details>
-<summary><strong>Does it work on any Windows version?</strong></summary>
+<summary><strong>Which Windows versions are supported?</strong></summary>
 
 <br>
 
@@ -312,16 +329,31 @@ ReimaginedOS currently targets Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC 
 <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
-<a href="https://github.com/cr1mix">
-<img src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-
 </p>
 
 ---
 
+<br>
+
 <p align="center">
-  <strong>Made by cr1mix</strong>
-  <br>
-  <sub>ReimaginedOS · Windows, reimagined.</sub>
+  <img
+    src="https://avatars.githubusercontent.com/u/220206221?v=4"
+    width="110"
+    height="110"
+    alt="cr1mix"
+  >
+</p>
+
+<h2 align="center">ReimaginedOS is made by</h2>
+
+<h1 align="center">𝕮𝖗1𝖒𝖎𝖝</h1>
+
+<p align="center">
+  <sub>Building a cleaner, faster and more configurable Windows.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>ReimaginedOS · Windows, reimagined.</strong>
 </p>
