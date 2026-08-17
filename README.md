@@ -20,28 +20,28 @@
 <table align="center" width="85%">
 <tr>
 
-<td width="65%" align="center" valign="middle">
+<td width="65%" align="center">
 
 <h2>Windows, reimagined.</h2>
 
 ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
 
-<br><br>
+<br>
 
 Built around one idea: <strong>you stay in control.</strong>
 
-<br><br>
+<br>
 
 Every tweak is optional. Choose what you want to change,
 skip what you don't, and keep the parts of Windows you still use.
 
-<br><br>
+<br>
 
 <strong>Performance · Debloat · Privacy · Gaming</strong>
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center">
 
 <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="220" alt="ReimaginedOS Playbook">
 
@@ -61,27 +61,17 @@ skip what you don't, and keep the parts of Windows you still use.
 <table align="center" width="85%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<b>Drops the process count</b>
-
-<br><br>
-
-<sub>
-Background services and scheduled tasks can be reduced to keep Windows lighter.
-</sub>
+<b>Drops the process count</b><br>
+<sub>Background services and scheduled tasks can be reduced to keep Windows lighter.</sub>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<b>Debloat that works</b>
-
-<br><br>
-
-<sub>
-Choose what you want to remove, including Microsoft Store, Copilot, Widgets, OneDrive, Teams and other optional components.
-</sub>
+<b>Debloat that works</b><br>
+<sub>Choose what you want to remove, including Microsoft Store, Copilot, Widgets, OneDrive, Teams and other optional components.</sub>
 
 </td>
 
@@ -89,27 +79,17 @@ Choose what you want to remove, including Microsoft Store, Copilot, Widgets, One
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<b>Privacy by default</b>
-
-<br><br>
-
-<sub>
-Optional controls for telemetry, tracking, diagnostics and Windows Update.
-</sub>
+<b>Privacy by default</b><br>
+<sub>Optional controls for telemetry, tracking, diagnostics and Windows Update.</sub>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<b>Gaming-first tuning</b>
-
-<br><br>
-
-<sub>
-Optional power, timer, network and background-process tweaks for a gaming-focused setup.
-</sub>
+<b>Gaming-first tuning</b><br>
+<sub>Optional power, timer, network and background-process tweaks for a gaming-focused setup.</sub>
 
 </td>
 
@@ -117,27 +97,17 @@ Optional power, timer, network and background-process tweaks for a gaming-focuse
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<b>Defender, your way</b>
-
-<br><br>
-
-<sub>
-Keep Defender, change selected settings, or disable it if you use another security solution.
-</sub>
+<b>Defender, your way</b><br>
+<sub>Keep Defender, change selected settings, or disable it if you use another security solution.</sub>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<b>Clean desktop</b>
-
-<br><br>
-
-<sub>
-Optional shortcuts, custom branding, wallpaper and an <code>apps</code> folder for everything else.
-</sub>
+<b>Clean desktop</b><br>
+<sub>Optional shortcuts, custom branding, wallpaper and an <code>apps</code> folder for everything else.</sub>
 
 </td>
 
@@ -155,32 +125,23 @@ Optional shortcuts, custom branding, wallpaper and an <code>apps</code> folder f
 <table align="center" width="80%">
 <tr>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<b>Choose</b>
-
-<br>
-
+<b>Choose</b><br>
 <sub>Pick the changes you want.</sub>
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<b>Review</b>
-
-<br>
-
+<b>Review</b><br>
 <sub>Check what the selected options do.</sub>
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<b>Apply</b>
-
-<br>
-
+<b>Apply</b><br>
 <sub>Only your selections are applied.</sub>
 
 </td>
@@ -211,32 +172,23 @@ Optional shortcuts, custom branding, wallpaper and an <code>apps</code> folder f
 <table align="center" width="80%">
 <tr>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<b>System</b>
-
-<br>
-
+<b>System</b><br>
 <sub>Services · Wi-Fi · Bluetooth · Power</sub>
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<b>Performance</b>
-
-<br>
-
+<b>Performance</b><br>
 <sub>CPU / GPU settings and performance controls</sub>
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<b>Information</b>
-
-<br>
-
+<b>Information</b><br>
 <sub>Windows · CPU · RAM · GPU · Power plan</sub>
 
 </td>
@@ -259,54 +211,29 @@ Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 <table align="center" width="90%">
 <tr>
 
-<td width="20%" align="center" valign="middle">
-
-<b>01</b>
-
-<br>
-
+<td width="20%" align="center">
+<b>01</b><br>
 <sub>Download</sub>
-
 </td>
 
-<td width="20%" align="center" valign="middle">
-
-<b>02</b>
-
-<br>
-
+<td width="20%" align="center">
+<b>02</b><br>
 <sub>Open in AME Wizard</sub>
-
 </td>
 
-<td width="20%" align="center" valign="middle">
-
-<b>03</b>
-
-<br>
-
+<td width="20%" align="center">
+<b>03</b><br>
 <sub>Review options</sub>
-
 </td>
 
-<td width="20%" align="center" valign="middle">
-
-<b>04</b>
-
-<br>
-
+<td width="20%" align="center">
+<b>04</b><br>
 <sub>Choose your tweaks</sub>
-
 </td>
 
-<td width="20%" align="center" valign="middle">
-
-<b>05</b>
-
-<br>
-
+<td width="20%" align="center">
+<b>05</b><br>
 <sub>Apply</sub>
-
 </td>
 
 </tr>
@@ -316,11 +243,9 @@ Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 
 <strong>Only the options you select are applied.</strong>
 
-<br><br>
+<br>
 
-<sub>
-A fresh, stock Windows installation is recommended before applying the playbook.
-</sub>
+<sub>A fresh, stock Windows installation is recommended before applying the playbook.</sub>
 
 </div>
 
@@ -380,7 +305,7 @@ ReimaginedOS is a Windows optimization playbook for AME Wizard focused on perfor
 
 No. ReimaginedOS is built around user choice.
 
-<br><br>
+<br>
 
 Available changes are optional, and only the options you select are applied.
 
@@ -423,7 +348,7 @@ Get AME Wizard →
 
 Yes. Defender is your choice.
 
-<br><br>
+<br>
 
 You can keep it enabled, change selected settings, or disable it if you use another security solution.
 
