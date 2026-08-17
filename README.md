@@ -8,7 +8,7 @@
 
 **⚠️ Coming Soon** — ReimaginedOS is still in development and has not been released yet. Follow the repository to be the first to know when it drops.
 
-ReimaginedOS is a Windows optimization playbook for [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4) 🧙. The idea is simple: Windows should be **fast, clean and yours** — not a storefront with a built-in OS. Every tweak is a question you answer, so nothing gets applied without your say-so.
+ReimaginedOS is a Windows optimization playbook for [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4) . The idea is simple: Windows should be **fast, clean and yours** — not a storefront with a built-in OS. Every tweak is a question you answer, so nothing gets applied without your say-so.
 
 ## ✨ What it does
 
