@@ -19,32 +19,19 @@
 <tr>
 
 <td width="65%" align="center" valign="middle">
-
-<h2 align="center">Windows, reimagined.</h2>
-
-<p align="center">
-ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
-</p>
-
-<p align="center">
-Built around one idea: <strong>you stay in control.</strong>
-</p>
-
-<p align="center">
-Every tweak is optional. Choose what you want to change,
-skip what you don't, and keep the parts of Windows you still use.
-</p>
-
-<p align="center">
-<strong>Performance · Debloat · Privacy · Gaming</strong>
-</p>
-
+<center>
+<h2>Windows, reimagined.</h2>
+<p>ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.</p>
+<p>Built around one idea: <strong>you stay in control.</strong></p>
+<p>Every tweak is optional. Choose what you want to change, skip what you don't, and keep the parts of Windows you still use.</p>
+<p><strong>Performance · Debloat · Privacy · Gaming</strong></p>
+</center>
 </td>
 
 <td width="35%" align="center" valign="middle">
-
+<center>
 <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="260" alt="ReimaginedOS Playbook">
-
+</center>
 </td>
 
 </tr>
@@ -58,23 +45,17 @@ skip what you don't, and keep the parts of Windows you still use.
 <tr>
 
 <td width="50%" align="center" valign="middle">
-
-<h3 align="center">Drops the process count</h3>
-
-<p align="center">
+<center>
+<h3>Drops the process count</h3>
 Reduce unnecessary background services and scheduled tasks.
-</p>
-
+</center>
 </td>
 
 <td width="50%" align="center" valign="middle">
-
-<h3 align="center">Debloat that works</h3>
-
-<p align="center">
+<center>
+<h3>Debloat that works</h3>
 Choose whether to remove components such as Store, Copilot, Widgets, OneDrive and Teams.
-</p>
-
+</center>
 </td>
 
 </tr>
@@ -82,23 +63,17 @@ Choose whether to remove components such as Store, Copilot, Widgets, OneDrive an
 <tr>
 
 <td width="50%" align="center" valign="middle">
-
-<h3 align="center">Privacy by default</h3>
-
-<p align="center">
+<center>
+<h3>Privacy by default</h3>
 Optional controls for telemetry, tracking, diagnostics and Windows Update.
-</p>
-
+</center>
 </td>
 
 <td width="50%" align="center" valign="middle">
-
-<h3 align="center">Gaming-first tuning</h3>
-
-<p align="center">
+<center>
+<h3>Gaming-first tuning</h3>
 Optional power, timer, network and background-process tweaks.
-</p>
-
+</center>
 </td>
 
 </tr>
@@ -106,23 +81,17 @@ Optional power, timer, network and background-process tweaks.
 <tr>
 
 <td width="50%" align="center" valign="middle">
-
-<h3 align="center">Defender, your way</h3>
-
-<p align="center">
+<center>
+<h3>Defender, your way</h3>
 Keep Defender, change its settings, or disable it if you use another security solution.
-</p>
-
+</center>
 </td>
 
 <td width="50%" align="center" valign="middle">
-
-<h3 align="center">Clean desktop</h3>
-
-<p align="center">
+<center>
+<h3>Clean desktop</h3>
 Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
-</p>
-
+</center>
 </td>
 
 </tr>
@@ -136,18 +105,24 @@ Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 <tr>
 
 <td width="33%" align="center" valign="middle">
-<h3 align="center">Choose</h3>
-<div align="center">Pick the changes you want.</div>
+<center>
+<h3>Choose</h3>
+Pick the changes you want.
+</center>
 </td>
 
 <td width="33%" align="center" valign="middle">
-<h3 align="center">Review</h3>
-<div align="center">Check what the selected options do.</div>
+<center>
+<h3>Review</h3>
+Check what the selected options do.
+</center>
 </td>
 
 <td width="33%" align="center" valign="middle">
-<h3 align="center">Apply</h3>
-<div align="center">Only your selections are applied.</div>
+<center>
+<h3>Apply</h3>
+Only your selections are applied.
+</center>
 </td>
 
 </tr>
@@ -173,33 +148,24 @@ Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 <tr>
 
 <td width="33%" align="center" valign="middle">
-
-<h3 align="center">System</h3>
-
-<p align="center">
+<center>
+<h3>System</h3>
 Services · Wi-Fi · Bluetooth · Power
-</p>
-
+</center>
 </td>
 
 <td width="33%" align="center" valign="middle">
-
-<h3 align="center">Performance</h3>
-
-<p align="center">
+<center>
+<h3>Performance</h3>
 CPU / GPU settings and performance controls
-</p>
-
+</center>
 </td>
 
 <td width="33%" align="center" valign="middle">
-
-<h3 align="center">Information</h3>
-
-<p align="center">
+<center>
+<h3>Information</h3>
 Windows · CPU · RAM · GPU · Power plan
-</p>
-
+</center>
 </td>
 
 </tr>
@@ -217,28 +183,38 @@ Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 <tr>
 
 <td width="20%" align="center" valign="middle">
-<div align="center"><strong>01</strong></div>
-<div align="center">Download</div>
+<center>
+<b>01</b><br>
+Download
+</center>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<div align="center"><strong>02</strong></div>
-<div align="center">Open in AME Wizard</div>
+<center>
+<b>02</b><br>
+Open in AME Wizard
+</center>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<div align="center"><strong>03</strong></div>
-<div align="center">Review options</div>
+<center>
+<b>03</b><br>
+Review options
+</center>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<div align="center"><strong>04</strong></div>
-<div align="center">Choose your tweaks</div>
+<center>
+<b>04</b><br>
+Choose your tweaks
+</center>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<div align="center"><strong>05</strong></div>
-<div align="center">Apply</div>
+<center>
+<b>05</b><br>
+Apply
+</center>
 </td>
 
 </tr>
