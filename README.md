@@ -1,40 +1,53 @@
-# reimaginedOS — Windows 11 24H2 LTSC Ultra-Lite by Cr1mix
+# ReimaginedOS
 
-A lightweight Windows 11 24H2 LTSC build with extreme service stripping and full driver support.
+![Coming Soon](https://img.shields.io/badge/status-Coming%20Soon-orange?style=for-the-badge)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
+[![Website](https://img.shields.io/badge/Website-reimaginedos.pages.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reimaginedos.pages.dev/)
 
-ISO size is only 1.3 GB — an incredible result for LTSC 2024.
+**⚠️ Coming Soon** — ReimaginedOS is still in development and hasn't been released yet. Follow the repo to be the first to know when it drops.
 
-## Features
-- Low process count — only essential services remain
-- Full driver compatibility — WiFi, GPU, chipset all work out of the box
-- Ultimate Performance power plan enabled by default
-- Dark theme, custom wallpaper & cursor pre-applied
-- Firefox installer included on desktop
-- No Microsoft account required
-- No Windows Update, no Defender, no telemetry
-- SvcHost split threshold maxed for process isolation
-- Registry tweaks for gaming responsiveness
-- Startup optimizer — re-applies tweaks at every boot
+ReimaginedOS is a Windows optimization playbook for AME Wizard 🧙, built around one idea: Windows should be **fast, clean and yours**. No bloatware, no telemetry, no background noise — just your PC doing what you ask.
 
-## Strengths
-- **Stability** — rock solid, built on LTSC base
-- **Speed** — fast UI and quick boot times
-- **WiFi** — faster and more stable connection
-- **Gaming** — higher FPS, lower latency, smoother experience
-- **Lightweight** — minimal RAM and CPU usage at idle
+## What makes it different
 
-Most users report 30%+ performance improvement compared to stock Windows 11.
+- 📉 **Massively fewer processes** — background services and scheduled tasks are cut down so hard that Task Manager looks like a ghost town
+- 🗑️ **Real debloat** — Microsoft Store, Copilot, Widgets, OneDrive, Teams and the rest of the junk, removed for good
+- 🕵️ **Privacy by default** — telemetry blocked at every level, tracking off, Windows Update under your control
+- 🎮 **Built for gaming** — power plans, timers and network tuning squeezed for maximum FPS and lowest latency
+- 🛡️ **Defender on a leash** — disable it, or rip it out completely, ReviOS-style
+- 🧹 **Clean looks** — tidy desktop, custom branding, and a place for everything
 
-## Credits
+## ReimaginedOS ToolBox
 
-**Cr1mix** — Creator and maintainer of reimaginedOS
+A lightweight companion app that keeps your system sharp long after the first run:
 
-## Notes
-- Windows 11 IoT Enterprise LTSC 2024 (build 26100)
-- English (en-US)
-- Ultimate Performance power plan
-- Can only be downloaded on Discord
+- ⚡ One-click actions — flush DNS, purge RAM, rebuild icon cache, restart Explorer
+- 🎛️ Toggles for Defender, Windows Update, services and telemetry
+- 📊 Live system info — OS, CPU, RAM, GPU, power plan, all in a tiny window
 
-https://discord.com/invite/NjkgT7vXBb
+## System requirements
 
-Just a clean, fast Windows — no bloat, no overhead, no compromises.
+ReimaginedOS currently targets AMD64 builds of:
+- windows 10 22h2
+- Windows 11 23H2
+- Windows 11 24H2 (+ LTSC)
+- Windows 11 25H2
+
+## Getting started
+
+Coming soon — when the playbook is out, you'll just:
+
+1. Grab **AME Wizard** and the playbook from the releases
+2. Drag-and-drop the playbook into AME Wizard
+3. Follow the on-screen steps
+
+> **Note:** a fresh, stock Windows installation is recommended before applying the playbook.
+
+## Links
+
+🌐 Site: https://reimaginedos.pages.dev/
+💬 Discord: https://discord.gg/NjkgT7vXBb
+🎵 TikTok: https://tiktok.com/@cr1mix
+
+Made by **cr1mix**.
