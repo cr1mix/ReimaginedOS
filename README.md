@@ -18,17 +18,26 @@
 <table>
 <tr>
 
-<td width="65%" valign="middle">
+<td width="65%" align="center" valign="middle">
 
-## Windows, reimagined.
+<h2>Windows, reimagined.</h2>
 
-ReimaginedOS is a Windows optimization playbook for **AME Wizard**.
+<p>
+ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
+</p>
 
-Built around one idea: **you stay in control**.
+<p>
+Built around one idea: <strong>you stay in control.</strong>
+</p>
 
-Every tweak is optional. Choose what you want to change, skip what you don't, and keep the parts of Windows you still use.
+<p>
+Every tweak is optional. Choose what you want to change,
+skip what you don't, and keep the parts of Windows you still use.
+</p>
 
-**Performance · Debloat · Privacy · Gaming**
+<p>
+<strong>Performance · Debloat · Privacy · Gaming</strong>
+</p>
 
 </td>
 
@@ -43,24 +52,28 @@ Every tweak is optional. Choose what you want to change, skip what you don't, an
 
 ---
 
-## Features
+<h2 align="center">Features</h2>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**Drops the process count**
+<h3>Drops the process count</h3>
 
+<p>
 Reduce unnecessary background services and scheduled tasks.
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**Debloat that works**
+<h3>Debloat that works</h3>
 
+<p>
 Choose whether to remove components such as Store, Copilot, Widgets, OneDrive and Teams.
+</p>
 
 </td>
 
@@ -68,19 +81,23 @@ Choose whether to remove components such as Store, Copilot, Widgets, OneDrive an
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**Privacy by default**
+<h3>Privacy by default</h3>
 
+<p>
 Optional controls for telemetry, tracking, diagnostics and Windows Update.
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**Gaming-first tuning**
+<h3>Gaming-first tuning</h3>
 
+<p>
 Optional power, timer, network and background-process tweaks.
+</p>
 
 </td>
 
@@ -88,19 +105,23 @@ Optional power, timer, network and background-process tweaks.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**Defender, your way**
+<h3>Defender, your way</h3>
 
+<p>
 Keep Defender, change its settings, or disable it if you use another security solution.
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**Clean desktop**
+<h3>Clean desktop</h3>
 
-Optional shortcuts, branding, wallpaper and an `apps` folder.
+<p>
+Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
+</p>
 
 </td>
 
@@ -114,27 +135,27 @@ Optional shortcuts, branding, wallpaper and an `apps` folder.
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-**Choose**
+<h3>Choose</h3>
 
-Pick the changes you want.
-
-</td>
-
-<td align="center" width="33%">
-
-**Review**
-
-Check what the selected options do.
+<p>Pick the changes you want.</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-**Apply**
+<h3>Review</h3>
 
-Only your selections are applied.
+<p>Check what the selected options do.</p>
+
+</td>
+
+<td align="center" width="33%" valign="middle">
+
+<h3>Apply</h3>
+
+<p>Only your selections are applied.</p>
 
 </td>
 
@@ -160,27 +181,33 @@ Only your selections are applied.
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="middle">
 
-**System**
+<h3>System</h3>
 
-Services, Wi-Fi, Bluetooth and power settings.
-
-</td>
-
-<td width="33%" valign="top">
-
-**Performance**
-
-CPU / GPU settings and performance-related controls.
+<p>
+Services · Wi-Fi · Bluetooth · Power
+</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="middle">
 
-**Information**
+<h3>Performance</h3>
 
-Windows, CPU, RAM, GPU and power plan.
+<p>
+CPU / GPU settings and performance controls
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<h3>Information</h3>
+
+<p>
+Windows · CPU · RAM · GPU · Power plan
+</p>
 
 </td>
 
@@ -189,27 +216,68 @@ Windows, CPU, RAM, GPU and power plan.
 
 ---
 
-## Getting started
+<h2 align="center">Getting started</h2>
 
-Once released, ReimaginedOS will run through **AME Wizard**.
+<p align="center">
+Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
+</p>
 
-1. Download the playbook.
-2. Open it with AME Wizard.
-3. Review the available options.
-4. Select the changes you want.
-5. Apply the configuration.
+<table>
+<tr>
 
-Only the options you select are applied.
+<td align="center" width="20%">
+
+<strong>01</strong><br>
+Download
+
+</td>
+
+<td align="center" width="20%">
+
+<strong>02</strong><br>
+Open in AME Wizard
+
+</td>
+
+<td align="center" width="20%">
+
+<strong>03</strong><br>
+Review options
+
+</td>
+
+<td align="center" width="20%">
+
+<strong>04</strong><br>
+Choose your tweaks
+
+</td>
+
+<td align="center" width="20%">
+
+<strong>05</strong><br>
+Apply
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  Only the options you select are applied.
+</p>
 
 > A fresh, stock Windows installation is recommended before applying the playbook.
 
 ---
 
-## Supported Systems
+<h2 align="center">Supported Systems</h2>
 
-ReimaginedOS currently targets **AMD64 / x64** Windows installations.
+<p align="center">
+  ReimaginedOS currently targets <strong>AMD64 / x64</strong> Windows installations.
+</p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10 22H2">
   <img src="https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 23H2">
   <img src="https://img.shields.io/badge/Windows%2011-24H2%20%2B%20LTSC-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 24H2 + LTSC">
@@ -218,20 +286,24 @@ ReimaginedOS currently targets **AMD64 / x64** Windows installations.
 
 ---
 
-## Project Status
+<h2 align="center">Project Status</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/RELEASE-COMING%20SOON-orange?style=flat-square" alt="Coming Soon">
   <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=flat-square" alt="Development">
 </p>
 
-ReimaginedOS is currently in development and is not publicly released yet.
+<p align="center">
+  ReimaginedOS is currently in development and is not publicly released yet.
+</p>
 
-The playbook and ToolBox are still being tested and refined.
+<p align="center">
+  The playbook and ToolBox are still being tested and refined.
+</p>
 
 ---
 
-## FAQ
+<h2 align="center">FAQ</h2>
 
 <details>
 <summary><strong>What is ReimaginedOS?</strong></summary>
@@ -301,7 +373,7 @@ Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
 
 ---
 
-## Links
+<h2 align="center">Links</h2>
 
 <p align="center">
 
