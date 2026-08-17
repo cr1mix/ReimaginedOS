@@ -137,9 +137,9 @@ Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 
 <td width="33%" align="center" valign="middle">
 
-<h3>Choose</h3>
+<h3 align="center">Choose</h3>
 
-<p>
+<p align="center">
 Pick the changes you want.
 </p>
 
@@ -147,9 +147,9 @@ Pick the changes you want.
 
 <td width="33%" align="center" valign="middle">
 
-<h3>Review</h3>
+<h3 align="center">Review</h3>
 
-<p>
+<p align="center">
 Check what the selected options do.
 </p>
 
@@ -157,9 +157,9 @@ Check what the selected options do.
 
 <td width="33%" align="center" valign="middle">
 
-<h3>Apply</h3>
+<h3 align="center">Apply</h3>
 
-<p>
+<p align="center">
 Only your selections are applied.
 </p>
 
@@ -189,9 +189,9 @@ Only your selections are applied.
 
 <td width="33%" align="center" valign="middle">
 
-<h3>System</h3>
+<h3 align="center">System</h3>
 
-<p>
+<p align="center">
 Services · Wi-Fi · Bluetooth · Power
 </p>
 
@@ -199,9 +199,9 @@ Services · Wi-Fi · Bluetooth · Power
 
 <td width="33%" align="center" valign="middle">
 
-<h3>Performance</h3>
+<h3 align="center">Performance</h3>
 
-<p>
+<p align="center">
 CPU / GPU settings and performance controls
 </p>
 
@@ -209,9 +209,9 @@ CPU / GPU settings and performance controls
 
 <td width="33%" align="center" valign="middle">
 
-<h3>Information</h3>
+<h3 align="center">Information</h3>
 
-<p>
+<p align="center">
 Windows · CPU · RAM · GPU · Power plan
 </p>
 
@@ -232,33 +232,48 @@ Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 <tr>
 
 <td width="20%" align="center" valign="middle">
+<p align="center">
 <strong>01</strong>
-<br><br>
+</p>
+<p align="center">
 Download
+</p>
 </td>
 
 <td width="20%" align="center" valign="middle">
+<p align="center">
 <strong>02</strong>
-<br><br>
+</p>
+<p align="center">
 Open in AME Wizard
+</p>
 </td>
 
 <td width="20%" align="center" valign="middle">
+<p align="center">
 <strong>03</strong>
-<br><br>
+</p>
+<p align="center">
 Review options
+</p>
 </td>
 
 <td width="20%" align="center" valign="middle">
+<p align="center">
 <strong>04</strong>
-<br><br>
+</p>
+<p align="center">
 Choose your tweaks
+</p>
 </td>
 
 <td width="20%" align="center" valign="middle">
+<p align="center">
 <strong>05</strong>
-<br><br>
+</p>
+<p align="center">
 Apply
+</p>
 </td>
 
 </tr>
@@ -277,7 +292,7 @@ Apply
 <h2 align="center">Supported Systems</h2>
 
 <p align="center">
-  ReimaginedOS currently targets <strong>AMD64 / x64</strong> Windows installations.
+ReimaginedOS currently targets <strong>AMD64 / x64</strong> Windows installations.
 </p>
 
 <p align="center">
@@ -297,88 +312,93 @@ Apply
 </p>
 
 <p align="center">
-  ReimaginedOS is currently in development and is not publicly released yet.
+ReimaginedOS is currently in development and is not publicly released yet.
 </p>
 
 <p align="center">
-  The playbook and ToolBox are still being tested and refined.
+The playbook and ToolBox are still being tested and refined.
 </p>
 
 ---
 
 <h2 align="center">FAQ</h2>
 
-<p align="center">
-
 <details>
-<summary><strong>What is ReimaginedOS?</strong></summary>
+<summary align="center"><strong>What is ReimaginedOS?</strong></summary>
 
 <br>
 
+<p align="center">
 ReimaginedOS is a Windows optimization playbook for AME Wizard focused on performance, debloating, privacy, gaming and system configuration.
-
-</details>
-
 </p>
 
+</details>
+
 <details>
-<summary><strong>Does ReimaginedOS automatically remove things?</strong></summary>
+<summary align="center"><strong>Does ReimaginedOS automatically remove things?</strong></summary>
 
 <br>
 
-No.
-
-ReimaginedOS is built around user choice. Available changes are optional, and only the options you select are applied.
+<p align="center">
+No. ReimaginedOS is built around user choice.
+Available changes are optional, and only the options you select are applied.
+</p>
 
 </details>
 
 <details>
-<summary><strong>Can I keep things I still use?</strong></summary>
+<summary align="center"><strong>Can I keep things I still use?</strong></summary>
 
 <br>
 
-Yes.
-
-If you still use a Windows component, service or feature, simply skip its option in the playbook.
+<p align="center">
+Yes. If you still use a Windows component, service or feature,
+simply skip its option in the playbook.
+</p>
 
 </details>
 
 <details>
-<summary><strong>Do I need AME Wizard?</strong></summary>
+<summary align="center"><strong>Do I need AME Wizard?</strong></summary>
 
 <br>
 
+<p align="center">
 Yes. ReimaginedOS is designed to run through AME Wizard.
+</p>
 
-<br>
-
+<p align="center">
 <a href="https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4">
 Get AME Wizard →
 </a>
+</p>
 
 </details>
 
 <details>
-<summary><strong>Can I keep Windows Defender?</strong></summary>
+<summary align="center"><strong>Can I keep Windows Defender?</strong></summary>
 
 <br>
 
-Yes.
+<p align="center">
+Yes. Defender is your choice.
+You can keep it enabled, change selected settings, or disable it if you use another security solution.
+</p>
 
-Defender is your choice. You can keep it enabled, change selected settings, or disable it if you use another security solution.
-
-<br><br>
-
+<p align="center">
 <strong>Warning:</strong> Disabling security features can reduce system security.
+</p>
 
 </details>
 
 <details>
-<summary><strong>Which Windows versions are supported?</strong></summary>
+<summary align="center"><strong>Which Windows versions are supported?</strong></summary>
 
 <br>
 
+<p align="center">
 Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
+</p>
 
 </details>
 
