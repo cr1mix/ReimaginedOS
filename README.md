@@ -1,7 +1,13 @@
-# ReimaginedOS
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/cr1mix/ReimaginedOS/main/banner.png"
+    width="900"
+    alt="ReimaginedOS"
+  >
+</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="76" height="76" style="border-radius:50%;" alt="cr1mix">
+  <img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="72" height="72" alt="cr1mix">
 </p>
 
 <h1 align="center">ReimaginedOS</h1>
@@ -14,11 +20,11 @@
 
 <p align="center">
   <a href="#features">Features</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
   <a href="#toolbox">ToolBox</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#supported-systems">Supported Systems</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
+  <a href="#supported-systems">Supported</a>
+  &nbsp;·&nbsp;
   <a href="#faq">FAQ</a>
 </p>
 
@@ -35,7 +41,8 @@
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+
+<td width="58%" valign="middle">
 
 <h2>A Windows that feels like yours.</h2>
 
@@ -53,37 +60,28 @@ Every tweak is a question you answer, so nothing gets applied without your say-s
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>−70%</strong><br>
-<sub>fewer processes</sub>
-</td>
-
-<td align="center" width="25%">
-<strong>200+</strong><br>
-<sub>bloat apps removed</sub>
-</td>
-
-<td align="center" width="25%">
-<strong>1,700+</strong><br>
-<sub>verified actions</sub>
-</td>
-
-<td align="center" width="25%">
-<strong>100%</strong><br>
-<sub>your choice</sub>
-</td>
-</tr>
-</table>
+<p>
+  <strong>−70%</strong>&nbsp; fewer processes
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <strong>200+</strong>&nbsp; bloat apps removed
+  <br><br>
+  <strong>1,700+</strong>&nbsp; verified actions
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <strong>100%</strong>&nbsp; your choice
+</p>
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="390" alt="ReimaginedOS Playbook">
+<img
+  src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png"
+  width="380"
+  alt="ReimaginedOS Playbook"
+>
 
 </td>
+
 </tr>
 </table>
 
@@ -91,14 +89,16 @@ Every tweak is a question you answer, so nothing gets applied without your say-s
 
 ## Features
 
-ReimaginedOS is built around six core areas.
+<p>
+  <strong>Six areas. One goal:</strong> a Windows that feels like yours.
+</p>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚡ Drops the process count
+<h3>⚡ Drops the process count</h3>
 
 Background services and scheduled tasks get gutted so hard that Task Manager looks empty.
 
@@ -106,7 +106,7 @@ Background services and scheduled tasks get gutted so hard that Task Manager loo
 
 <td width="50%" valign="top">
 
-### 🧹 Debloat that works
+<h3>🧹 Debloat that works</h3>
 
 Microsoft Store, Copilot, Widgets, OneDrive, Teams and the rest — removed for good, even on modern Windows builds.
 
@@ -118,7 +118,7 @@ Microsoft Store, Copilot, Widgets, OneDrive, Teams and the rest — removed for 
 
 <td width="50%" valign="top">
 
-### 🔒 Privacy by default
+<h3>🔒 Privacy by default</h3>
 
 Telemetry blocked at every level, tracking off, Windows Update under your control.
 
@@ -126,7 +126,7 @@ Telemetry blocked at every level, tracking off, Windows Update under your contro
 
 <td width="50%" valign="top">
 
-### 🎮 Gaming-first tuning
+<h3>🎮 Gaming-first tuning</h3>
 
 Power plans, timers and network settings squeezed for maximum FPS and minimum latency.
 
@@ -138,7 +138,7 @@ Power plans, timers and network settings squeezed for maximum FPS and minimum la
 
 <td width="50%" valign="top">
 
-### 🛡️ Defender, your way
+<h3>🛡️ Defender, your way</h3>
 
 Remove it, keep it, or anything in between.
 
@@ -148,9 +148,9 @@ Every tweak is a question you answer.
 
 <td width="50%" valign="top">
 
-### 🖥️ Clean desktop
+<h3>🖥️ Clean desktop</h3>
 
-Curated shortcuts, custom branding and wallpaper, and an `apps` folder for everything else.
+Curated shortcuts, custom branding and wallpaper, and an <code>apps</code> folder for everything else.
 
 </td>
 
@@ -161,30 +161,40 @@ Curated shortcuts, custom branding and wallpaper, and an `apps` folder for every
 
 ## ToolBox
 
-A lightweight companion app designed to keep your system sharp after the first run.
+<p>
+  A lightweight helper app designed to keep your system sharp after the first run.
+</p>
 
 <table>
 <tr>
 
 <td width="52%" valign="middle">
 
-### One-click maintenance
+<h3>One-click maintenance</h3>
 
 Flush DNS, purge RAM, rebuild the icon cache and restart Explorer.
 
-### Quick controls
+<h3>Quick controls</h3>
 
 Toggles for Defender, Windows Update, services and telemetry.
 
-### System information
+<h3>System information</h3>
 
 OS, CPU, RAM, GPU and power plan at a glance.
+
+<br>
+
+<strong>Everything you need, without digging through Windows.</strong>
 
 </td>
 
 <td width="48%" align="center" valign="middle">
 
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="360" alt="ReimaginedOS ToolBox">
+<img
+  src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png"
+  width="360"
+  alt="ReimaginedOS ToolBox"
+>
 
 </td>
 
@@ -195,51 +205,24 @@ OS, CPU, RAM, GPU and power plan at a glance.
 
 ## How it works
 
-<table>
-<tr>
-<td align="center" width="25%">
+<p align="center">
 
-### 01
+<strong>01</strong> &nbsp; Download
+&nbsp;&nbsp; → &nbsp;&nbsp;
 
-**Download**
+<strong>02</strong> &nbsp; Open in AME Wizard
+&nbsp;&nbsp; → &nbsp;&nbsp;
 
-Get the ReimaginedOS playbook.
+<strong>03</strong> &nbsp; Choose your tweaks
+&nbsp;&nbsp; → &nbsp;&nbsp;
 
-</td>
+<strong>04</strong> &nbsp; Apply
 
-<td align="center" width="25%">
+</p>
 
-### 02
-
-**Open**
-
-Load it into AME Wizard.
-
-</td>
-
-<td align="center" width="25%">
-
-### 03
-
-**Choose**
-
-Select the tweaks you want.
-
-</td>
-
-<td align="center" width="25%">
-
-### 04
-
-**Apply**
-
-Let AME Wizard handle the changes.
-
-</td>
-</tr>
-</table>
-
-> A fresh, stock Windows installation is recommended before applying the playbook.
+<p align="center">
+  <sub>A fresh, stock Windows installation is recommended before applying the playbook.</sub>
+</p>
 
 ---
 
@@ -304,7 +287,9 @@ Yes.
 
 The playbook runs inside the free, open-source **AME Wizard**.
 
-<a href="https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4">Get AME Wizard →</a>
+<a href="https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4">
+  Get AME Wizard →
+</a>
 
 </details>
 
