@@ -15,46 +15,50 @@
 
 ---
 
-<table>
+<div align="center">
+
+<table align="center" width="85%">
 <tr>
 
 <td width="65%" align="center" valign="middle">
 
 <h2>Windows, reimagined.</h2>
 
-<p>
 ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
-</p>
 
-<p>
+<br><br>
+
 Built around one idea: <strong>you stay in control.</strong>
-</p>
 
-<p>
+<br><br>
+
 Every tweak is optional. Choose what you want to change,
 skip what you don't, and keep the parts of Windows you still use.
-</p>
 
-<p>
+<br><br>
+
 <strong>Performance · Debloat · Privacy · Gaming</strong>
-</p>
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="240" alt="ReimaginedOS Playbook">
+<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="220" alt="ReimaginedOS Playbook">
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
 <h2 align="center">Features</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="85%">
 <tr>
 
 <td width="50%" align="center" valign="middle">
@@ -63,7 +67,9 @@ skip what you don't, and keep the parts of Windows you still use.
 
 <br><br>
 
+<sub>
 Background services and scheduled tasks can be reduced to keep Windows lighter.
+</sub>
 
 </td>
 
@@ -73,7 +79,9 @@ Background services and scheduled tasks can be reduced to keep Windows lighter.
 
 <br><br>
 
+<sub>
 Choose what you want to remove, including Microsoft Store, Copilot, Widgets, OneDrive, Teams and other optional components.
+</sub>
 
 </td>
 
@@ -87,7 +95,9 @@ Choose what you want to remove, including Microsoft Store, Copilot, Widgets, One
 
 <br><br>
 
+<sub>
 Optional controls for telemetry, tracking, diagnostics and Windows Update.
+</sub>
 
 </td>
 
@@ -97,7 +107,9 @@ Optional controls for telemetry, tracking, diagnostics and Windows Update.
 
 <br><br>
 
+<sub>
 Optional power, timer, network and background-process tweaks for a gaming-focused setup.
+</sub>
 
 </td>
 
@@ -111,7 +123,9 @@ Optional power, timer, network and background-process tweaks for a gaming-focuse
 
 <br><br>
 
+<sub>
 Keep Defender, change selected settings, or disable it if you use another security solution.
+</sub>
 
 </td>
 
@@ -121,27 +135,33 @@ Keep Defender, change selected settings, or disable it if you use another securi
 
 <br><br>
 
+<sub>
 Optional shortcuts, custom branding, wallpaper and an <code>apps</code> folder for everything else.
+</sub>
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
 <h2 align="center">Your system. Your choice.</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="80%">
 <tr>
 
 <td width="33%" align="center" valign="middle">
 
 <b>Choose</b>
 
-<br><br>
+<br>
 
-Pick the changes you want.
+<sub>Pick the changes you want.</sub>
 
 </td>
 
@@ -149,9 +169,9 @@ Pick the changes you want.
 
 <b>Review</b>
 
-<br><br>
+<br>
 
-Check what the selected options do.
+<sub>Check what the selected options do.</sub>
 
 </td>
 
@@ -159,41 +179,45 @@ Check what the selected options do.
 
 <b>Apply</b>
 
-<br><br>
+<br>
 
-Only your selections are applied.
+<sub>Only your selections are applied.</sub>
 
 </td>
 
 </tr>
 </table>
 
-<p align="center">
-<b>Nothing is forced.</b>
-</p>
+<br>
+
+<strong>Nothing is forced.</strong>
+
+</div>
 
 ---
 
 <h2 align="center">ReimaginedOS ToolBox</h2>
 
 <p align="center">
-<small>A lightweight companion for managing your system after the playbook.</small>
+<sub>A lightweight companion for managing your system after the playbook.</sub>
 </p>
 
 <p align="center">
 <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="470" alt="ReimaginedOS ToolBox">
 </p>
 
-<table>
+<div align="center">
+
+<table align="center" width="80%">
 <tr>
 
 <td width="33%" align="center" valign="middle">
 
 <b>System</b>
 
-<br><br>
+<br>
 
-Services · Wi-Fi · Bluetooth · Power
+<sub>Services · Wi-Fi · Bluetooth · Power</sub>
 
 </td>
 
@@ -201,9 +225,9 @@ Services · Wi-Fi · Bluetooth · Power
 
 <b>Performance</b>
 
-<br><br>
+<br>
 
-CPU / GPU settings and performance controls
+<sub>CPU / GPU settings and performance controls</sub>
 
 </td>
 
@@ -211,14 +235,16 @@ CPU / GPU settings and performance controls
 
 <b>Information</b>
 
-<br><br>
+<br>
 
-Windows · CPU · RAM · GPU · Power plan
+<sub>Windows · CPU · RAM · GPU · Power plan</sub>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -228,16 +254,18 @@ Windows · CPU · RAM · GPU · Power plan
 Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 </p>
 
-<table>
+<div align="center">
+
+<table align="center" width="90%">
 <tr>
 
 <td width="20%" align="center" valign="middle">
 
 <b>01</b>
 
-<br><br>
+<br>
 
-Download
+<sub>Download</sub>
 
 </td>
 
@@ -245,9 +273,9 @@ Download
 
 <b>02</b>
 
-<br><br>
+<br>
 
-Open in AME Wizard
+<sub>Open in AME Wizard</sub>
 
 </td>
 
@@ -255,9 +283,9 @@ Open in AME Wizard
 
 <b>03</b>
 
-<br><br>
+<br>
 
-Review options
+<sub>Review options</sub>
 
 </td>
 
@@ -265,9 +293,9 @@ Review options
 
 <b>04</b>
 
-<br><br>
+<br>
 
-Choose your tweaks
+<sub>Choose your tweaks</sub>
 
 </td>
 
@@ -275,22 +303,26 @@ Choose your tweaks
 
 <b>05</b>
 
-<br><br>
+<br>
 
-Apply
+<sub>Apply</sub>
 
 </td>
 
 </tr>
 </table>
 
-<p align="center">
-<b>Only the options you select are applied.</b>
-</p>
+<br>
 
-<p align="center">
-<small>A fresh, stock Windows installation is recommended before applying the playbook.</small>
-</p>
+<strong>Only the options you select are applied.</strong>
+
+<br><br>
+
+<sub>
+A fresh, stock Windows installation is recommended before applying the playbook.
+</sub>
+
+</div>
 
 ---
 
@@ -328,6 +360,8 @@ The playbook and ToolBox are still being tested and refined.
 
 <h2 align="center">FAQ</h2>
 
+<div align="center">
+
 <details>
 <summary><strong>What is ReimaginedOS?</strong></summary>
 
@@ -345,6 +379,8 @@ ReimaginedOS is a Windows optimization playbook for AME Wizard focused on perfor
 <br>
 
 No. ReimaginedOS is built around user choice.
+
+<br><br>
 
 Available changes are optional, and only the options you select are applied.
 
@@ -387,6 +423,8 @@ Get AME Wizard →
 
 Yes. Defender is your choice.
 
+<br><br>
+
 You can keep it enabled, change selected settings, or disable it if you use another security solution.
 
 <br><br>
@@ -405,6 +443,8 @@ You can keep it enabled, change selected settings, or disable it if you use anot
 Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
 
 </details>
+
+</div>
 
 ---
 
@@ -446,7 +486,7 @@ Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
 <h2 align="center">𝕮𝖗1𝖒𝖎𝖝</h2>
 
 <p align="center">
-<small>Creator of ReimaginedOS :3</small>
+<sub>Creator of ReimaginedOS :3</sub>
 </p>
 
 <p align="center">
@@ -465,5 +505,5 @@ Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
 </p>
 
 <p align="center">
-<small>Windows, reimagined.</small>
+<sub>Windows, reimagined.</sub>
 </p>
