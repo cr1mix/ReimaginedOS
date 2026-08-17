@@ -4,12 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NjkgT7vXBb)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cr1mix)
 [![Website](https://img.shields.io/badge/Website-reimaginedos.pages.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reimaginedos.pages.dev/)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+[![AME Wizard](https://img.shields.io/badge/AME%20Wizard-0078D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4)
 
-**⚠️ Coming Soon** — ReimaginedOS is still in development and hasn't been released yet. Follow the repo to be the first to know when it drops.
+**⚠️ Coming Soon** — ReimaginedOS is still in development and has not been released yet. Follow the repository to be the first to know when it drops.
 
-ReimaginedOS is a Windows playbook for [AME Wizard](https://github.com/AME-Wizard/AME-Wizard) 🧙. The idea is simple: Windows should be **fast, clean and yours** — not a storefront with a built-in OS. Every tweak is a question you answer, so nothing gets applied without your say-so.
+ReimaginedOS is a Windows optimization playbook for [AME Wizard](https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4) 🧙. The idea is simple: Windows should be **fast, clean and yours** — not a storefront with a built-in OS. Every tweak is a question you answer, so nothing gets applied without your say-so.
 
 ## ✨ What it does
 
@@ -30,12 +29,12 @@ ReimaginedOS ships with a lightweight helper app to keep your system sharp after
 
 ## 💻 Supported systems
 
-Currently targeting AMD64 builds:
+ReimaginedOS currently targets AMD64 builds of:
 
-- Windows 10 22H2
-- Windows 11 23H2
-- Windows 11 24H2 (+ LTSC)
-- Windows 11 25H2
+![Windows 10](https://img.shields.io/badge/Windows%2010%2022H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011%2023H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011%2024H2%20%2B%20LTSC-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011%2025H2-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 ## 🚀 Getting started
 
