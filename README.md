@@ -20,22 +20,22 @@
 
 <td width="65%" align="center" valign="middle">
 
-<h2>Windows, reimagined.</h2>
+<h2 align="center">Windows, reimagined.</h2>
 
-<p>
+<p align="center">
 ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
 </p>
 
-<p>
+<p align="center">
 Built around one idea: <strong>you stay in control.</strong>
 </p>
 
-<p>
+<p align="center">
 Every tweak is optional. Choose what you want to change,
 skip what you don't, and keep the parts of Windows you still use.
 </p>
 
-<p>
+<p align="center">
 <strong>Performance · Debloat · Privacy · Gaming</strong>
 </p>
 
@@ -59,9 +59,9 @@ skip what you don't, and keep the parts of Windows you still use.
 
 <td width="50%" align="center" valign="middle">
 
-<h3>Drops the process count</h3>
+<h3 align="center">Drops the process count</h3>
 
-<p>
+<p align="center">
 Reduce unnecessary background services and scheduled tasks.
 </p>
 
@@ -69,9 +69,9 @@ Reduce unnecessary background services and scheduled tasks.
 
 <td width="50%" align="center" valign="middle">
 
-<h3>Debloat that works</h3>
+<h3 align="center">Debloat that works</h3>
 
-<p>
+<p align="center">
 Choose whether to remove components such as Store, Copilot, Widgets, OneDrive and Teams.
 </p>
 
@@ -83,9 +83,9 @@ Choose whether to remove components such as Store, Copilot, Widgets, OneDrive an
 
 <td width="50%" align="center" valign="middle">
 
-<h3>Privacy by default</h3>
+<h3 align="center">Privacy by default</h3>
 
-<p>
+<p align="center">
 Optional controls for telemetry, tracking, diagnostics and Windows Update.
 </p>
 
@@ -93,9 +93,9 @@ Optional controls for telemetry, tracking, diagnostics and Windows Update.
 
 <td width="50%" align="center" valign="middle">
 
-<h3>Gaming-first tuning</h3>
+<h3 align="center">Gaming-first tuning</h3>
 
-<p>
+<p align="center">
 Optional power, timer, network and background-process tweaks.
 </p>
 
@@ -107,9 +107,9 @@ Optional power, timer, network and background-process tweaks.
 
 <td width="50%" align="center" valign="middle">
 
-<h3>Defender, your way</h3>
+<h3 align="center">Defender, your way</h3>
 
-<p>
+<p align="center">
 Keep Defender, change its settings, or disable it if you use another security solution.
 </p>
 
@@ -117,9 +117,9 @@ Keep Defender, change its settings, or disable it if you use another security so
 
 <td width="50%" align="center" valign="middle">
 
-<h3>Clean desktop</h3>
+<h3 align="center">Clean desktop</h3>
 
-<p>
+<p align="center">
 Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 </p>
 
@@ -136,33 +136,18 @@ Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 <tr>
 
 <td width="33%" align="center" valign="middle">
-
 <h3 align="center">Choose</h3>
-
-<p align="center">
-Pick the changes you want.
-</p>
-
+<div align="center">Pick the changes you want.</div>
 </td>
 
 <td width="33%" align="center" valign="middle">
-
 <h3 align="center">Review</h3>
-
-<p align="center">
-Check what the selected options do.
-</p>
-
+<div align="center">Check what the selected options do.</div>
 </td>
 
 <td width="33%" align="center" valign="middle">
-
 <h3 align="center">Apply</h3>
-
-<p align="center">
-Only your selections are applied.
-</p>
-
+<div align="center">Only your selections are applied.</div>
 </td>
 
 </tr>
@@ -232,48 +217,28 @@ Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 <tr>
 
 <td width="20%" align="center" valign="middle">
-<p align="center">
-<strong>01</strong>
-</p>
-<p align="center">
-Download
-</p>
+<div align="center"><strong>01</strong></div>
+<div align="center">Download</div>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<p align="center">
-<strong>02</strong>
-</p>
-<p align="center">
-Open in AME Wizard
-</p>
+<div align="center"><strong>02</strong></div>
+<div align="center">Open in AME Wizard</div>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<p align="center">
-<strong>03</strong>
-</p>
-<p align="center">
-Review options
-</p>
+<div align="center"><strong>03</strong></div>
+<div align="center">Review options</div>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<p align="center">
-<strong>04</strong>
-</p>
-<p align="center">
-Choose your tweaks
-</p>
+<div align="center"><strong>04</strong></div>
+<div align="center">Choose your tweaks</div>
 </td>
 
 <td width="20%" align="center" valign="middle">
-<p align="center">
-<strong>05</strong>
-</p>
-<p align="center">
-Apply
-</p>
+<div align="center"><strong>05</strong></div>
+<div align="center">Apply</div>
 </td>
 
 </tr>
