@@ -17,23 +17,34 @@
 
 <table>
 <tr>
-
 <td width="65%" align="center" valign="middle">
-<center>
+
 <h2>Windows, reimagined.</h2>
-<p>ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.</p>
-<p>Built around one idea: <strong>you stay in control.</strong></p>
-<p>Every tweak is optional. Choose what you want to change, skip what you don't, and keep the parts of Windows you still use.</p>
-<p><strong>Performance · Debloat · Privacy · Gaming</strong></p>
-</center>
+
+<p>
+ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
+</p>
+
+<p>
+Built around one idea: <strong>you stay in control.</strong>
+</p>
+
+<p>
+Every tweak is optional. Choose what you want to change,
+skip what you don't, and keep the parts of Windows you still use.
+</p>
+
+<p>
+<strong>Performance · Debloat · Privacy · Gaming</strong>
+</p>
+
 </td>
 
 <td width="35%" align="center" valign="middle">
-<center>
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="260" alt="ReimaginedOS Playbook">
-</center>
-</td>
 
+<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="240" alt="ReimaginedOS Playbook">
+
+</td>
 </tr>
 </table>
 
@@ -44,54 +55,60 @@
 <table>
 <tr>
 
-<td width="50%" align="center" valign="middle">
-<center>
-<h3>Drops the process count</h3>
-Reduce unnecessary background services and scheduled tasks.
-</center>
+<td width="50%" align="center">
+
+### Drops the process count
+
+Background services and scheduled tasks can be reduced to keep Windows lighter.
+
 </td>
 
-<td width="50%" align="center" valign="middle">
-<center>
-<h3>Debloat that works</h3>
-Choose whether to remove components such as Store, Copilot, Widgets, OneDrive and Teams.
-</center>
+<td width="50%" align="center">
+
+### Debloat that works
+
+Choose what you want to remove, including Microsoft Store, Copilot, Widgets, OneDrive, Teams and other optional components.
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
-<center>
-<h3>Privacy by default</h3>
+<td width="50%" align="center">
+
+### Privacy by default
+
 Optional controls for telemetry, tracking, diagnostics and Windows Update.
-</center>
+
 </td>
 
-<td width="50%" align="center" valign="middle">
-<center>
-<h3>Gaming-first tuning</h3>
-Optional power, timer, network and background-process tweaks.
-</center>
+<td width="50%" align="center">
+
+### Gaming-first tuning
+
+Optional power, timer, network and background-process tweaks for a gaming-focused setup.
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" align="center" valign="middle">
-<center>
-<h3>Defender, your way</h3>
-Keep Defender, change its settings, or disable it if you use another security solution.
-</center>
+<td width="50%" align="center">
+
+### Defender, your way
+
+Keep Defender, change selected settings, or disable it if you use another security solution.
+
 </td>
 
-<td width="50%" align="center" valign="middle">
-<center>
-<h3>Clean desktop</h3>
-Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
-</center>
+<td width="50%" align="center">
+
+### Clean desktop
+
+Optional shortcuts, custom branding, wallpaper and an `apps` folder for everything else.
+
 </td>
 
 </tr>
@@ -101,35 +118,12 @@ Optional shortcuts, branding, wallpaper and an <code>apps</code> folder.
 
 <h2 align="center">Your system. Your choice.</h2>
 
-<table>
-<tr>
-
-<td width="33%" align="center" valign="middle">
-<center>
-<h3>Choose</h3>
-Pick the changes you want.
-</center>
-</td>
-
-<td width="33%" align="center" valign="middle">
-<center>
-<h3>Review</h3>
-Check what the selected options do.
-</center>
-</td>
-
-<td width="33%" align="center" valign="middle">
-<center>
-<h3>Apply</h3>
-Only your selections are applied.
-</center>
-</td>
-
-</tr>
-</table>
+| **Choose** | **Review** | **Apply** |
+|:---:|:---:|:---:|
+| Pick the changes you want. | Check what the selected options do. | Only your selections are applied. |
 
 <p align="center">
-  <strong>Nothing is forced.</strong>
+<strong>Nothing is forced.</strong>
 </p>
 
 ---
@@ -137,39 +131,16 @@ Only your selections are applied.
 <h2 align="center">ReimaginedOS ToolBox</h2>
 
 <p align="center">
-  <sub>Manage your system after applying the playbook.</sub>
+<sub>A lightweight companion for managing your system after the playbook.</sub>
 </p>
 
 <p align="center">
-  <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="470" alt="ReimaginedOS ToolBox">
+<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="470" alt="ReimaginedOS ToolBox">
 </p>
 
-<table>
-<tr>
-
-<td width="33%" align="center" valign="middle">
-<center>
-<h3>System</h3>
-Services · Wi-Fi · Bluetooth · Power
-</center>
-</td>
-
-<td width="33%" align="center" valign="middle">
-<center>
-<h3>Performance</h3>
-CPU / GPU settings and performance controls
-</center>
-</td>
-
-<td width="33%" align="center" valign="middle">
-<center>
-<h3>Information</h3>
-Windows · CPU · RAM · GPU · Power plan
-</center>
-</td>
-
-</tr>
-</table>
+| **System** | **Performance** | **Information** |
+|:---:|:---:|:---:|
+| Services · Wi-Fi · Bluetooth · Power | CPU / GPU settings and performance controls | Windows · CPU · RAM · GPU · Power plan |
 
 ---
 
@@ -179,53 +150,16 @@ Windows · CPU · RAM · GPU · Power plan
 Once released, ReimaginedOS will run through <strong>AME Wizard</strong>.
 </p>
 
-<table>
-<tr>
-
-<td width="20%" align="center" valign="middle">
-<center>
-<b>01</b><br>
-Download
-</center>
-</td>
-
-<td width="20%" align="center" valign="middle">
-<center>
-<b>02</b><br>
-Open in AME Wizard
-</center>
-</td>
-
-<td width="20%" align="center" valign="middle">
-<center>
-<b>03</b><br>
-Review options
-</center>
-</td>
-
-<td width="20%" align="center" valign="middle">
-<center>
-<b>04</b><br>
-Choose your tweaks
-</center>
-</td>
-
-<td width="20%" align="center" valign="middle">
-<center>
-<b>05</b><br>
-Apply
-</center>
-</td>
-
-</tr>
-</table>
+| **01** | **02** | **03** | **04** | **05** |
+|:---:|:---:|:---:|:---:|:---:|
+| Download | Open in AME Wizard | Review options | Choose your tweaks | Apply |
 
 <p align="center">
-  <strong>Only the options you select are applied.</strong>
+<strong>Only the options you select are applied.</strong>
 </p>
 
 <p align="center">
-  <sub>A fresh, stock Windows installation is recommended before applying the playbook.</sub>
+<sub>A fresh, stock Windows installation is recommended before applying the playbook.</sub>
 </p>
 
 ---
@@ -237,10 +171,10 @@ ReimaginedOS currently targets <strong>AMD64 / x64</strong> Windows installation
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10 22H2">
-  <img src="https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 23H2">
-  <img src="https://img.shields.io/badge/Windows%2011-24H2%20%2B%20LTSC-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 24H2 + LTSC">
-  <img src="https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 25H2">
+<img src="https://img.shields.io/badge/Windows%2010-22H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10 22H2">
+<img src="https://img.shields.io/badge/Windows%2011-23H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 23H2">
+<img src="https://img.shields.io/badge/Windows%2011-24H2%20%2B%20LTSC-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 24H2 LTSC">
+<img src="https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11 25H2">
 </p>
 
 ---
@@ -248,8 +182,8 @@ ReimaginedOS currently targets <strong>AMD64 / x64</strong> Windows installation
 <h2 align="center">Project Status</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RELEASE-COMING%20SOON-orange?style=flat-square" alt="Coming Soon">
-  <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=flat-square" alt="Development">
+<img src="https://img.shields.io/badge/RELEASE-COMING%20SOON-orange?style=flat-square" alt="Coming Soon">
+<img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=flat-square" alt="Development">
 </p>
 
 <p align="center">
@@ -264,84 +198,77 @@ The playbook and ToolBox are still being tested and refined.
 
 <h2 align="center">FAQ</h2>
 
+<p align="center">
+
 <details>
-<summary align="center"><strong>What is ReimaginedOS?</strong></summary>
+<summary><strong>What is ReimaginedOS?</strong></summary>
 
 <br>
 
-<p align="center">
 ReimaginedOS is a Windows optimization playbook for AME Wizard focused on performance, debloating, privacy, gaming and system configuration.
-</p>
 
 </details>
 
 <details>
-<summary align="center"><strong>Does ReimaginedOS automatically remove things?</strong></summary>
+<summary><strong>Does ReimaginedOS automatically remove things?</strong></summary>
 
 <br>
 
-<p align="center">
 No. ReimaginedOS is built around user choice.
+
 Available changes are optional, and only the options you select are applied.
-</p>
 
 </details>
 
 <details>
-<summary align="center"><strong>Can I keep things I still use?</strong></summary>
+<summary><strong>Can I keep things I still use?</strong></summary>
 
 <br>
 
-<p align="center">
-Yes. If you still use a Windows component, service or feature,
-simply skip its option in the playbook.
-</p>
+Yes. If you still use a Windows component, service or feature, simply skip its option in the playbook.
 
 </details>
 
 <details>
-<summary align="center"><strong>Do I need AME Wizard?</strong></summary>
+<summary><strong>Do I need AME Wizard?</strong></summary>
 
 <br>
 
-<p align="center">
 Yes. ReimaginedOS is designed to run through AME Wizard.
-</p>
 
-<p align="center">
+<br>
+
 <a href="https://github.com/Ameliorated-LLC/trusted-uninstaller-cli/releases/tag/0.8.4">
 Get AME Wizard →
 </a>
-</p>
 
 </details>
 
 <details>
-<summary align="center"><strong>Can I keep Windows Defender?</strong></summary>
+<summary><strong>Can I keep Windows Defender?</strong></summary>
 
 <br>
 
-<p align="center">
 Yes. Defender is your choice.
-You can keep it enabled, change selected settings, or disable it if you use another security solution.
-</p>
 
-<p align="center">
+You can keep it enabled, change selected settings, or disable it if you use another security solution.
+
+<br><br>
+
 <strong>Warning:</strong> Disabling security features can reduce system security.
-</p>
 
 </details>
 
 <details>
-<summary align="center"><strong>Which Windows versions are supported?</strong></summary>
+<summary><strong>Which Windows versions are supported?</strong></summary>
 
 <br>
 
-<p align="center">
 Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
-</p>
 
 </details>
+
+</p>
 
 ---
 
@@ -372,35 +299,32 @@ Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
 <br>
 
 <p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/220206221?v=4"
-    width="170"
-    height="170"
-    alt="𝕮𝖗1𝖒𝖎𝖝"
-  >
+<img
+  src="https://avatars.githubusercontent.com/u/220206221?v=4"
+  width="170"
+  height="170"
+  alt="𝕮𝖗1𝖒𝖎𝖝"
+>
 </p>
 
 <h2 align="center">𝕮𝖗1𝖒𝖎𝖝</h2>
 
 <p align="center">
-  <sub>Creator of ReimaginedOS :3</sub>
+<sub>Creator of ReimaginedOS :3</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cr1mix">
-    <img
-      src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    >
-  </a>
+<a href="https://github.com/cr1mix">
+<img src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
 </p>
 
 <br>
 
 <p align="center">
-  © 2026 𝕮𝖗1𝖒𝖎𝖝 · ReimaginedOS
+© 2026 𝕮𝖗1𝖒𝖎𝖝 · ReimaginedOS
 </p>
 
 <p align="center">
-  <sub>Windows, reimagined.</sub>
+<sub>Windows, reimagined.</sub>
 </p>
