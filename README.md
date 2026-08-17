@@ -37,20 +37,24 @@ Every tweak is a question you answer, so nothing gets applied without your say-s
 <br>
 
 <p>
-⚡ <strong>Performance</strong>
+<strong>Performance</strong>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-🧹 <strong>Debloat</strong>
+<strong>Debloat</strong>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-🔒 <strong>Privacy</strong>
+<strong>Privacy</strong>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-🎮 <strong>Gaming</strong>
+<strong>Gaming</strong>
 </p>
 
 </td>
 
 <td width="38%" align="center" valign="middle">
 
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="300" alt="ReimaginedOS Playbook">
+<img
+  src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png"
+  width="300"
+  alt="ReimaginedOS Playbook"
+>
 
 </td>
 
@@ -66,7 +70,7 @@ Every tweak is a question you answer, so nothing gets applied without your say-s
 
 <td width="50%" valign="top">
 
-### ⚡ Drops the process count
+### Drops the process count
 
 Background services and scheduled tasks get gutted so hard that Task Manager looks empty.
 
@@ -74,7 +78,7 @@ Background services and scheduled tasks get gutted so hard that Task Manager loo
 
 <td width="50%" valign="top">
 
-### 🧹 Debloat that works
+### Debloat that works
 
 Microsoft Store, Copilot, Widgets, OneDrive, Teams and the rest — removed for good, even on modern Windows builds.
 
@@ -86,7 +90,7 @@ Microsoft Store, Copilot, Widgets, OneDrive, Teams and the rest — removed for 
 
 <td width="50%" valign="top">
 
-### 🔒 Privacy by default
+### Privacy by default
 
 Telemetry blocked at every level, tracking off, Windows Update under your control.
 
@@ -94,7 +98,7 @@ Telemetry blocked at every level, tracking off, Windows Update under your contro
 
 <td width="50%" valign="top">
 
-### 🎮 Gaming-first tuning
+### Gaming-first tuning
 
 Power plans, timers and network settings squeezed for maximum FPS and minimum latency.
 
@@ -106,7 +110,7 @@ Power plans, timers and network settings squeezed for maximum FPS and minimum la
 
 <td width="50%" valign="top">
 
-### 🛡️ Defender, your way
+### Defender, your way
 
 Remove it, keep it, or anything in between.
 
@@ -116,7 +120,7 @@ Every tweak is a question you answer.
 
 <td width="50%" valign="top">
 
-### 🖥️ Clean desktop
+### Clean desktop
 
 Curated shortcuts, custom branding and wallpaper, and an `apps` folder for everything else.
 
@@ -129,13 +133,16 @@ Curated shortcuts, custom branding and wallpaper, and an `apps` folder for every
 
 # ToolBox
 
-<p>
 The playbook handles the initial setup.
-The <strong>ReimaginedOS ToolBox</strong> keeps your system manageable afterwards.
-</p>
+
+The **ReimaginedOS ToolBox** keeps your system manageable afterwards.
 
 <p align="center">
-  <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="520" alt="ReimaginedOS ToolBox">
+  <img
+    src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png"
+    width="520"
+    alt="ReimaginedOS ToolBox"
+  >
 </p>
 
 <table>
@@ -143,7 +150,7 @@ The <strong>ReimaginedOS ToolBox</strong> keeps your system manageable afterward
 
 <td width="33%" valign="top">
 
-### ⚡ Maintenance
+### Maintenance
 
 Flush DNS, purge RAM, rebuild the icon cache and restart Explorer.
 
@@ -151,7 +158,7 @@ Flush DNS, purge RAM, rebuild the icon cache and restart Explorer.
 
 <td width="33%" valign="top">
 
-### 🎛️ Quick controls
+### Quick controls
 
 Toggles for Defender, Windows Update, services and telemetry.
 
@@ -159,7 +166,7 @@ Toggles for Defender, Windows Update, services and telemetry.
 
 <td width="33%" valign="top">
 
-### 📊 System info
+### System information
 
 OS, CPU, RAM, GPU and power plan at a glance.
 
@@ -298,7 +305,7 @@ Yes.
 
 Defender is your choice. You can keep it enabled, modify selected settings, or disable it if you use another security solution.
 
-> ⚠️ Disabling security features can reduce system security.
+> Disabling security features can reduce system security.
 
 </details>
 
@@ -329,6 +336,10 @@ ReimaginedOS currently targets Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC 
 <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
+<a href="https://github.com/cr1mix">
+<img src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 </p>
 
 ---
@@ -338,22 +349,28 @@ ReimaginedOS currently targets Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC 
 <p align="center">
   <img
     src="https://avatars.githubusercontent.com/u/220206221?v=4"
-    width="110"
-    height="110"
+    width="150"
+    height="150"
     alt="cr1mix"
   >
 </p>
 
-<h2 align="center">ReimaginedOS is made by</h2>
-
-<h1 align="center">𝕮𝖗1𝖒𝖎𝖝</h1>
+<h2 align="center">cr1mix</h2>
 
 <p align="center">
-  <sub>Building a cleaner, faster and more configurable Windows.</sub>
+  <sub>Creator of ReimaginedOS</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cr1mix">
+    <img src="https://img.shields.io/badge/GitHub-cr1mix-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <strong>ReimaginedOS · Windows, reimagined.</strong>
+  <strong>ReimaginedOS</strong>
+  <br>
+  <sub>Windows, reimagined.</sub>
 </p>
