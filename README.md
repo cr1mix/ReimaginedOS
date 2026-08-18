@@ -54,6 +54,51 @@ skip what you don't, and keep the parts of Windows you still use.
 
 ---
 
+<h2 align="center">What is ReimaginedOS?</h2>
+
+<p align="center">
+ReimaginedOS is a configurable Windows optimization playbook built for
+<strong>AME Wizard</strong>.
+</p>
+
+<p align="center">
+Instead of applying one fixed configuration to every system,
+the playbook lets you decide which changes should be made.
+</p>
+
+<div align="center">
+
+<table align="center" width="80%">
+<tr>
+
+<td width="33%" align="center">
+
+<b>Choose</b><br>
+<sub>Select the changes you want.</sub>
+
+</td>
+
+<td width="33%" align="center">
+
+<b>Review</b><br>
+<sub>See what your selections change.</sub>
+
+</td>
+
+<td width="33%" align="center">
+
+<b>Apply</b><br>
+<sub>Only your selections are applied.</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 <h2 align="center">Features</h2>
 
 <div align="center">
@@ -70,8 +115,8 @@ skip what you don't, and keep the parts of Windows you still use.
 
 <td width="50%" align="center">
 
-<b>Debloat that works</b><br>
-<sub>Choose what you want to remove, including Microsoft Store, Copilot, Widgets, OneDrive, Teams and other optional components.</sub>
+<b>Windows debloat</b><br>
+<sub>Choose whether optional components such as Microsoft Store, Copilot, Widgets, OneDrive and Teams should be removed.</sub>
 
 </td>
 
@@ -81,15 +126,15 @@ skip what you don't, and keep the parts of Windows you still use.
 
 <td width="50%" align="center">
 
-<b>Privacy by default</b><br>
-<sub>Optional controls for telemetry, tracking, diagnostics and Windows Update.</sub>
+<b>Privacy-focused controls</b><br>
+<sub>Optional controls for telemetry, tracking, diagnostics and Windows privacy settings.</sub>
 
 </td>
 
 <td width="50%" align="center">
 
 <b>Gaming-first tuning</b><br>
-<sub>Optional power, timer, network and background-process tweaks for a gaming-focused setup.</sub>
+<sub>Optional power, timer, network and background-process settings for a gaming-focused setup.</sub>
 
 </td>
 
@@ -100,7 +145,7 @@ skip what you don't, and keep the parts of Windows you still use.
 <td width="50%" align="center">
 
 <b>Defender, your way</b><br>
-<sub>Keep Defender, change selected settings, or disable it if you use another security solution.</sub>
+<sub>Keep Defender enabled, configure selected settings, or disable it if you use another security solution.</sub>
 
 </td>
 
@@ -115,6 +160,120 @@ skip what you don't, and keep the parts of Windows you still use.
 </table>
 
 </div>
+
+---
+
+<h2 align="center">What actually changes?</h2>
+
+<p align="center">
+ReimaginedOS is not one fixed configuration.
+<br>
+The changes depend on the options you select in the playbook.
+</p>
+
+<div align="center">
+
+<table align="center" width="85%">
+<tr>
+
+<td width="50%" align="center">
+
+<b>Services</b><br>
+<sub>Optional Windows service configuration.</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>Scheduled Tasks</b><br>
+<sub>Optional task configuration and cleanup.</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<b>Components</b><br>
+<sub>Optional Windows component removal.</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>Privacy</b><br>
+<sub>Telemetry, diagnostics and privacy-related settings.</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<b>Performance</b><br>
+<sub>Power, CPU / GPU and system configuration.</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>Gaming</b><br>
+<sub>Optional latency and background-process tweaks.</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+<strong>No single configuration is forced on every system.</strong>
+</p>
+
+---
+
+<h2 align="center">Results</h2>
+
+<p align="center">
+On a tested <strong>Windows 11 25H2</strong> installation,
+ReimaginedOS can reach approximately:
+</p>
+
+<div align="center">
+
+<table align="center" width="55%">
+<tr>
+
+<td align="center">
+
+<b>~50</b><br>
+<sub>Processes</sub>
+
+</td>
+
+<td align="center">
+
+<b>~1 GB</b><br>
+<sub>RAM usage</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+<sub>
+Results vary depending on hardware, drivers, Windows build,
+installed software and the options selected in the playbook.
+</sub>
+</p>
 
 ---
 
@@ -160,7 +319,7 @@ skip what you don't, and keep the parts of Windows you still use.
 <h2 align="center">ReimaginedOS ToolBox</h2>
 
 <p align="center">
-<sub>A lightweight companion for managing your system after the playbook.</sub>
+<sub>A lightweight <strong>open-source</strong> companion for managing commonly used system controls after the playbook.</sub>
 </p>
 
 <p align="center">
@@ -197,6 +356,60 @@ skip what you don't, and keep the parts of Windows you still use.
 </table>
 
 </div>
+
+<p align="center">
+The ToolBox will be fully <strong>open source</strong>, allowing anyone to inspect how it works,
+understand the changes it makes and contribute to the project.
+</p>
+
+---
+
+<h2 align="center">Defender</h2>
+
+<p align="center">
+<strong>Security is your choice.</strong>
+</p>
+
+<p align="center">
+ReimaginedOS does not require one Defender configuration for every user.
+</p>
+
+<div align="center">
+
+<table align="center" width="70%">
+<tr>
+
+<td align="center">
+
+<b>Keep</b><br>
+<sub>Leave Microsoft Defender enabled.</sub>
+
+</td>
+
+<td align="center">
+
+<b>Configure</b><br>
+<sub>Change selected Defender settings.</sub>
+
+</td>
+
+<td align="center">
+
+<b>Disable</b><br>
+<sub>Use another security solution if appropriate.</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+<strong>⚠ Disabling security features can reduce system security.</strong>
+<br>
+<sub>Only disable protection if you understand the consequences and have appropriate protection in place.</sub>
+</p>
 
 ---
 
@@ -266,6 +479,62 @@ ReimaginedOS currently targets <strong>AMD64 / x64</strong> Windows installation
 
 ---
 
+<h2 align="center">Transparency</h2>
+
+<p align="center">
+ReimaginedOS is built around making system changes visible and selectable.
+</p>
+
+<div align="center">
+
+<table align="center" width="80%">
+<tr>
+
+<td width="50%" align="center">
+
+<b>Visible changes</b><br>
+<sub>Options are presented before they are applied.</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>User control</b><br>
+<sub>Unwanted changes can simply be skipped.</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<b>Open source</b><br>
+<sub>The project and ToolBox are intended to be inspectable through the repository.</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>No mystery configuration</b><br>
+<sub>The goal is to make the purpose of each option understandable.</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+<sub>
+Always review the playbook and its options before applying system-level changes.
+</sub>
+</p>
+
+---
+
 <h2 align="center">Project Status</h2>
 
 <p align="center">
@@ -303,11 +572,12 @@ ReimaginedOS is a Windows optimization playbook for AME Wizard focused on perfor
 
 <br>
 
-No. ReimaginedOS is built around user choice.
+No.
 
 <br>
 
-Available changes are optional, and only the options you select are applied.
+ReimaginedOS is built around user choice. Available changes are optional,
+and only the options you select are applied.
 
 </details>
 
@@ -318,7 +588,12 @@ Available changes are optional, and only the options you select are applied.
 
 <br>
 
-Yes. If you still use a Windows component, service or feature, simply skip its option in the playbook.
+Yes.
+
+<br>
+
+If you still use a Windows component, service or feature,
+simply skip its option in the playbook.
 
 </details>
 
@@ -346,15 +621,32 @@ Get AME Wizard →
 
 <br>
 
-Yes. Defender is your choice.
+Yes.
 
 <br>
 
-You can keep it enabled, change selected settings, or disable it if you use another security solution.
+You can keep Defender enabled, configure selected settings,
+or disable it if you use another security solution.
 
 <br><br>
 
 <strong>Warning:</strong> Disabling security features can reduce system security.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Will I get the same results shown above?</strong></summary>
+
+<br>
+
+Not necessarily.
+
+<br>
+
+Results depend on hardware, drivers, Windows build,
+installed software and the options selected in the playbook.
 
 </details>
 
@@ -366,6 +658,22 @@ You can keep it enabled, change selected settings, or disable it if you use anot
 <br>
 
 Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Will the ToolBox be open source?</strong></summary>
+
+<br>
+
+Yes.
+
+<br>
+
+The ReimaginedOS ToolBox is planned to be fully open source,
+so its implementation can be inspected and contributions can be made by the community.
 
 </details>
 
