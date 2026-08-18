@@ -240,8 +240,8 @@ The changes depend on the options you select in the playbook.
 <h2 align="center">Results</h2>
 
 <p align="center">
-On a tested <strong>Windows 11 25H2</strong> installation,
-ReimaginedOS can reach approximately:
+On a tested <strong>Windows 11 25H2</strong> configuration,
+ReimaginedOS has reached approximately:
 </p>
 
 <div align="center">
@@ -252,14 +252,14 @@ ReimaginedOS can reach approximately:
 <td align="center">
 
 <b>~50</b><br>
-<sub>Processes</sub>
+<sub>Processes at idle</sub>
 
 </td>
 
 <td align="center">
 
 <b>~1 GB</b><br>
-<sub>RAM usage</sub>
+<sub>RAM at idle</sub>
 
 </td>
 
@@ -270,8 +270,8 @@ ReimaginedOS can reach approximately:
 
 <p align="center">
 <sub>
-Results vary depending on hardware, drivers, Windows build,
-installed software and the options selected in the playbook.
+These figures are from a specific tested configuration and are not guaranteed system-wide.
+Results vary depending on hardware, drivers, Windows build, installed software and the options selected in the playbook.
 </sub>
 </p>
 
@@ -279,47 +279,16 @@ installed software and the options selected in the playbook.
 
 <h2 align="center">Your system. Your choice.</h2>
 
-<div align="center">
-
-<table align="center" width="80%">
-<tr>
-
-<td width="33%" align="center">
-
-<b>Choose</b><br>
-<sub>Pick the changes you want.</sub>
-
-</td>
-
-<td width="33%" align="center">
-
-<b>Review</b><br>
-<sub>Check what the selected options do.</sub>
-
-</td>
-
-<td width="33%" align="center">
-
-<b>Apply</b><br>
-<sub>Only your selections are applied.</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<strong>Nothing is forced.</strong>
-
-</div>
+<p align="center">
+<strong>Choose what changes. Review it. Apply only what you want.</strong>
+</p>
 
 ---
 
 <h2 align="center">ReimaginedOS ToolBox</h2>
 
 <p align="center">
-<sub>A lightweight <strong>open-source</strong> companion for managing commonly used system controls after the playbook.</sub>
+<sub>A lightweight companion for managing commonly used system controls after the playbook.</sub>
 </p>
 
 <p align="center">
@@ -358,7 +327,7 @@ installed software and the options selected in the playbook.
 </div>
 
 <p align="center">
-The ToolBox will be fully <strong>open source</strong>, allowing anyone to inspect how it works,
+The ToolBox will be <strong>open source</strong>, allowing anyone to inspect how it works,
 understand the changes it makes and contribute to the project.
 </p>
 
@@ -510,8 +479,8 @@ ReimaginedOS is built around making system changes visible and selectable.
 
 <td width="50%" align="center">
 
-<b>Open source</b><br>
-<sub>The project and ToolBox are intended to be inspectable through the repository.</sub>
+<b>Open source ToolBox</b><br>
+<sub>The ToolBox will be publicly inspectable and open to community contributions.</sub>
 
 </td>
 
@@ -531,6 +500,20 @@ ReimaginedOS is built around making system changes visible and selectable.
 <sub>
 Always review the playbook and its options before applying system-level changes.
 </sub>
+</p>
+
+---
+
+<h2 align="center">Documentation</h2>
+
+<p align="center">
+Technical documentation will cover the changes made by the playbook,
+including services, scheduled tasks, Windows components, privacy settings
+and other system-level modifications.
+</p>
+
+<p align="center">
+The goal is simple: <strong>know what changes before you apply them.</strong>
 </p>
 
 ---
@@ -645,6 +628,11 @@ Not necessarily.
 
 <br>
 
+The ~50 process and ~1 GB RAM figures were measured on a specific
+Windows 11 25H2 test configuration.
+
+<br><br>
+
 Results depend on hardware, drivers, Windows build,
 installed software and the options selected in the playbook.
 
@@ -672,7 +660,7 @@ Yes.
 
 <br>
 
-The ReimaginedOS ToolBox is planned to be fully open source,
+The ReimaginedOS ToolBox will be open source,
 so its implementation can be inspected and contributions can be made by the community.
 
 </details>
