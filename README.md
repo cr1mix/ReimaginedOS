@@ -19,13 +19,38 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/66d99414-6fb3-4e9e-9f81-a9ceda98a479" width="180" alt="ReimaginedOS Playbook">
+<table align="center" width="85%">
+<tr>
 
-  <h2>Windows, reimagined.</h2>
-  <p><strong>ReimaginedOS is a Windows optimization playbook for AME Wizard.</strong></p>
-  <p>Built around one idea: <strong>you stay in control.</strong></p>
-  <p>Every tweak is optional. Choose what you want to change, skip what you don't, and keep the parts of Windows you still use.</p>
-  <p><strong>Performance · Debloat · Privacy · Gaming</strong></p>
+<td width="65%" align="center">
+
+<h2>Windows, reimagined.</h2>
+
+ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
+
+<br>
+
+Built around one idea: <strong>you stay in control.</strong>
+
+<br>
+
+Every tweak is optional. Choose what you want to change,
+skip what you don't, and keep the parts of Windows you still use.
+
+<br>
+
+<strong>Performance · Debloat · Privacy · Gaming</strong>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/user-attachments/assets/66d99414-6fb3-4e9e-9f81-a9ceda98a479" width="200" alt="ReimaginedOS Playbook">
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
