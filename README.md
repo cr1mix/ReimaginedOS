@@ -43,7 +43,8 @@ skip what you don't, and keep the parts of Windows you still use.
 
 <td width="35%" align="center">
 
-<img src="https://cr1mix.github.io/reimaginedos-github.io/assets/playbook.png" width="220" alt="ReimaginedOS Playbook">
+<img src="<img width="488" height="511" alt="immagine" src="https://github.com/user-attachments/assets/66d99414-6fb3-4e9e-9f81-a9ceda98a479" />
+" width="220" alt="ReimaginedOS Playbook">
 
 </td>
 
