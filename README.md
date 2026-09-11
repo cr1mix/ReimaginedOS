@@ -19,38 +19,13 @@
 
 <div align="center">
 
-<table align="center" width="85%">
-<tr>
+  <img src="https://github.com/user-attachments/assets/66d99414-6fb3-4e9e-9f81-a9ceda98a479" width="180" alt="ReimaginedOS Playbook">
 
-<td width="65%" align="center">
-
-<h2>Windows, reimagined.</h2>
-
-ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
-
-<br><br>
-
-Built around one idea: <strong>you stay in control.</strong>
-
-<br><br>
-
-Every tweak is optional. Choose what you want to change,
-skip what you don't, and keep the parts of Windows you still use.
-
-<br><br>
-
-<strong>Performance · Debloat · Privacy · Gaming</strong>
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github.com/user-attachments/assets/66d99414-6fb3-4e9e-9f81-a9ceda98a479" width="200" alt="ReimaginedOS Playbook">
-
-</td>
-
-</tr>
-</table>
+  <h2>Windows, reimagined.</h2>
+  <p><strong>ReimaginedOS is a Windows optimization playbook for AME Wizard.</strong></p>
+  <p>Built around one idea: <strong>you stay in control.</strong></p>
+  <p>Every tweak is optional. Choose what you want to change, skip what you don't, and keep the parts of Windows you still use.</p>
+  <p><strong>Performance · Debloat · Privacy · Gaming</strong></p>
 
 </div>
 
@@ -58,6 +33,7 @@ skip what you don't, and keep the parts of Windows you still use.
 
 ## Table of Contents
 
+- [Website](#website)
 - [What is ReimaginedOS?](#what-is-reimaginedos)
 - [Features](#features)
 - [What actually changes?](#what-actually-changes)
@@ -71,6 +47,18 @@ skip what you don't, and keep the parts of Windows you still use.
 - [Project Status](#project-status)
 - [FAQ](#faq)
 - [Links](#links)
+
+---
+
+## Website
+
+Visit the official website for more information, updates, and resources:
+
+<p align="center">
+  <a href="https://reimaginedos.pages.dev/">
+    <img src="https://img.shields.io/badge/WEBSITE-REIMAGINEDOS.PAGES.DEV-0078D6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
 ---
 
@@ -139,7 +127,7 @@ On a tested **Windows 11 25H2** configuration, ReimaginedOS has reached approxim
 A lightweight companion for managing commonly used system controls after the playbook.
 
 <p align="center">
-  <img src="https://cr1mix.github.io/reimaginedos-github.io/assets/toolbox.png" width="470" alt="ReimaginedOS ToolBox">
+  <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/immagine.png?raw=true" width="470" alt="ReimaginedOS ToolBox">
 </p>
 
 - **System** — Services · Wi-Fi · Bluetooth · Power
@@ -284,8 +272,8 @@ Yes. The ReimaginedOS ToolBox will be open source, so its implementation can be 
 ## Links
 
 <p align="center">
-  <a href="https://cr1mix.github.io/reimaginedos-github.io/">
-    <img src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=github&logoColor=white" alt="Website">
+  <a href="https://reimaginedos.pages.dev/">
+    <img src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://discord.gg/NjkgT7vXBb">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
