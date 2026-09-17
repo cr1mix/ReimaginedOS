@@ -250,7 +250,7 @@ ReimaginedOS is a Windows optimization playbook for AME Wizard focused on perfor
 <details>
 <summary><strong>Does ReimaginedOS automatically remove things?</strong></summary>
 <br>
-No. ReimaginedOS is built around user choice. Available changes are optional, and only the options you select are applied.
+only some , most important one like microsoft store defender updates copilot etc are always asked bevore removing.
 </details>
 
 <details>
