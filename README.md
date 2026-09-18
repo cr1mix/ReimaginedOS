@@ -152,7 +152,7 @@ On a tested **Windows 11 25H2** configuration, ReimaginedOS has reached approxim
 A lightweight companion for managing commonly used system controls after the playbook.
 
 <p align="center">
-  <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/immagine.png?raw=true" width="470" alt="ReimaginedOS ToolBox">
+  <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/toolbox.jpg?raw=true" width="470" alt="ReimaginedOS ToolBox">
 </p>
 
 - **System** — Services · Wi-Fi · Bluetooth · Power
