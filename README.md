@@ -186,7 +186,7 @@ On a tested **Windows 11 25H2** beta configuration, ReimaginedOS sits at approxi
 Every tweak as a toggle. Apply or revert in one click.
 
 <p align="center">
-  <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/toolbox.jpg?raw=true" width="700" alt="ReimaginedOS ToolBox">
+  <img src="https://reimaginedos.pages.dev/assets/toolbox.jpg?raw=true" width="700" alt="ReimaginedOS ToolBox">
 </p>
 
 <div align="center">
