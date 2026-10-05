@@ -3,21 +3,21 @@
     <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/banner.png?raw=true" alt="ReimaginedOS Banner" width="800" height="auto">
   </picture>
 
+<div>
   <p>
     <a href="https://github.com/cr1mix/ReimaginedOS/releases" aria-label="Get ReimaginedOS">
       <img src="https://img.shields.io/badge/RELEASE-0.1V-E5484D?style=for-the-badge&logo=windows11&logoColor=white" alt="Release 0.1V">
     </a>
-    <img src="https://img.shields.io/badge/WINDOWS-10_%2F_11-0d0d10?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0d0d10?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
     <img src="https://img.shields.io/badge/ARCH-AMD64-E5484D?style=for-the-badge" alt="Architecture">
     <a href="https://discord.gg/NjkgT7vXBb" aria-label="Discord">
-      <img src="https://img.shields.io/badge/ReimaginedOS-0d0d10?style=for-the-badge&logo=discord&logoColor=E5484D&labelColor=E5484D" alt="Discord">
+      <img src="https://img.shields.io/badge/Discord-ReimaginedOS-0d0d10?style=for-the-badge&logo=discord&logoColor=white&labelColor=E5484D" alt="Discord">
     </a>
     <a href="https://reimaginedos.pages.dev" aria-label="Site">
-      <img src="https://img.shields.io/badge/reimaginedos.pages.dev-0d0d10?style=for-the-badge&logo=cloudflare&logoColor=E5484D" alt="Site">
+      <img src="https://img.shields.io/badge/Site-reimaginedos.pages.dev-0d0d10?style=for-the-badge&logo=cloudflare&logoColor=E5484D" alt="Site">
     </a>
   </p>
 </div>
-
 ---
 
 <div align="center">
