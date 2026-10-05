@@ -1,0 +1,10 @@
+ReimaginedOS ToolBox - source code
+===================================
+The ToolBox source code is NOT in this folder. It lives in its own repo:
+
+  https://github.com/cr1mix/reimaginedOS_toolbox
+
+NOTE (v0.1V first release): the graphical ToolBox is NOT included in this
+release pack (PostInstall-only release). It returns in a later version.
+The compiled ToolBox, when shipped, is built from that repo into:
+  Executables\ReimaginedOS ToolBox\reimaginedos_toolbox.exe
