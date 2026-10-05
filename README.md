@@ -4,13 +4,16 @@
   </picture>
 
   <p>
-    <a href="https://discord.gg/NjkgT7vXBb" aria-label="Beta test">
-      <img src="https://img.shields.io/badge/BETA-0.1V-E5484D?style=for-the-badge&logo=windows11&logoColor=white" alt="Beta 0.1V testing">
+    <a href="https://github.com/cr1mix/ReimaginedOS/releases" aria-label="Get ReimaginedOS">
+      <img src="https://img.shields.io/badge/RELEASE-0.1V-E5484D?style=for-the-badge&logo=windows11&logoColor=white" alt="Release 0.1V">
     </a>
     <img src="https://img.shields.io/badge/WINDOWS-10_%2F_11-0d0d10?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
     <img src="https://img.shields.io/badge/ARCH-AMD64-E5484D?style=for-the-badge" alt="Architecture">
     <a href="https://discord.gg/NjkgT7vXBb" aria-label="Discord">
-      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      <img src="https://img.shields.io/badge/ReimaginedOS-0d0d10?style=for-the-badge&logo=discord&logoColor=E5484D&labelColor=E5484D" alt="Discord">
+    </a>
+    <a href="https://reimaginedos.pages.dev" aria-label="Site">
+      <img src="https://img.shields.io/badge/reimaginedos.pages.dev-0d0d10?style=for-the-badge&logo=cloudflare&logoColor=E5484D" alt="Site">
     </a>
   </p>
 </div>
@@ -59,6 +62,9 @@ A reboot is required after applying.
 
 ---
 
+> [!CAUTION]
+> **Extreme preset is unstable.** It can break things like Wi-Fi. Use **Balanced** until it is fixed in the next build.
+
 ---
 
 ## Website
@@ -95,9 +101,9 @@ Instead of applying one fixed configuration to every system, the playbook lets y
 - **AMD** — RyzenAdj power tuning plus a deep driver block (light-sleep, clock and power gating off on desktops).
 - **Per-hardware auto-tuning** — CPU vendor, chassis and thermals are detected at apply time, then matched power, parking and undervolt settings are applied.
 - **NVIDIA profiles** — Separate Desktop and Laptop driver profiles, picked automatically and applied silently.
-- **Custom open tools** — Timer, SleepCheck, ToolBox and Splash are written for ReimaginedOS and shipped inside, GPLv3.
+- **Custom open tools** — Timer, SleepCheck and ToolBox are written for ReimaginedOS and shipped inside, GPLv3.
 - **Defender, your way** — Keep Defender enabled, configure selected settings, or disable it if you use another security solution.
-- **Clean desktop** — Optional shortcuts, custom branding, wallpaper and an `apps` folder for everything else.
+- **Clean desktop** — Optional shortcuts, custom branding, wallpaper, vendor leftovers removed.
 
 ---
 
@@ -128,7 +134,20 @@ Instead of applying one fixed configuration to every system, the playbook lets y
 
 </div>
 
-**Custom tools, open source** — Timer, SleepCheck, ToolBox and Splash are written for ReimaginedOS, GPLv3, shipped inside the playbook.
+**Custom tools, open source** — Timer, SleepCheck and ToolBox are written for ReimaginedOS, GPLv3, shipped inside the playbook.
+
+---
+
+## How it compares
+
+| | ReimaginedOS | Others |
+| :--- | :--- | :--- |
+| Your choices respected | Every page is opt-in or opt-out. Wi-Fi, Bluetooth, printing, Defender, Store and Xbox are never touched unless you pick it | Varies - presets often apply fixed sets |
+| Laptop-aware tuning | Separate Desktop and Laptop power plans, battery-aware background tools, hibernation kept on mobile | Usually one profile for all machines |
+| Intel and AMD paths | ThrottleStop on Intel, RyzenAdj curves on AMD, each with its own safeguards | Often Intel-only thinking |
+| Windows 10 and 11 | Tested on 10 22H2 through 11 25H2, build-checked at apply time | Mostly 11-focused today |
+| Revert coverage | Service snapshots, registry backups, restore point and per-toggle PostInstall scripts | Varies - often reinstall to undo |
+| Open tools | Timer, SleepCheck and ToolBox are custom GPLv3 code, source shipped inside | Usually closed or third-party bundles |
 
 ---
 
@@ -140,7 +159,7 @@ How the tuning actually works — no magic numbers without a reason:
 - **Core parking** — Parking policy rewritten per power plan, paired with EPP-tuned plans so cores unpark instantly under load and rest at idle.
 - **Timer resolution** — Global timer requests plus native timer tools for sub-millisecond frame pacing where it matters.
 - **NVIDIA via NVAPI** — The Base Profile is written straight into the driver store with a silent import, verified live on hardware. Desktop gets maximum performance, laptops keep their defaults.
-- **Everything logged** — Every apply writes logs and a receipt. The ToolBox reads them back, so anything can be flipped off again.
+- **Reversible by design** — Every apply leaves service snapshots, registry backups and a restore point behind. Almost every tweak also has an on/off toggle in PostInstall.
 
 ---
 
@@ -162,7 +181,7 @@ ReimaginedOS is not one fixed configuration. The changes depend on the options y
 
 ## Results
 
-On a tested **Windows 11 25H2** beta configuration, ReimaginedOS sits at approximately:
+On a tested **Windows 11 25H2** test configuration, ReimaginedOS sits at approximately:
 
 <div align="center">
 
@@ -186,7 +205,7 @@ On a tested **Windows 11 25H2** beta configuration, ReimaginedOS sits at approxi
 Every tweak as a toggle. Apply or revert in one click.
 
 <p align="center">
-  <img src="https://reimaginedos.pages.dev/assets/toolbox.jpg?raw=true" width="700" alt="ReimaginedOS ToolBox">
+  <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/toolbox.jpg?raw=true" width="700" alt="ReimaginedOS ToolBox">
 </p>
 
 <div align="center">
@@ -222,17 +241,17 @@ Every tweak as a toggle. Apply or revert in one click.
 
 ## Getting Started
 
-ReimaginedOS **0.1V is in beta testing** and runs through **AME Wizard**.
+ReimaginedOS **0.1V is out** and runs through **AME Wizard**.
 
-1. **Download** the playbook file.
-2. **Open** it in AME Wizard.
+1. **Download** `ReimaginedOS.apbx` from [GitHub Releases](https://github.com/cr1mix/ReimaginedOS/releases) (password `malte` if AME asks) and [AME Wizard](https://download.ameliorated.io/AME%20Beta.zip).
+2. **Open** AME Wizard, then drag the `.apbx` into it.
 3. **Review** options carefully.
 4. **Choose** your tweaks.
-5. **Apply** your custom selection.
+5. **Apply** your custom selection and reboot.
 
 > [!TIP]
 > **Most of what applies is what you select.** A small core (branding, diagnostics, boot safety) always applies. A fresh, stock Windows installation is recommended before applying the playbook.
-> Beta testers get a **custom role** on [Discord](https://discord.gg/NjkgT7vXBb).
+> Run it, report what breaks on [Discord](https://discord.gg/NjkgT7vXBb).
 
 ---
 
@@ -274,15 +293,18 @@ The goal is simple: **know what changes before you apply them.**
 ## Project Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BETA-0.1V_TESTING-E5484D?style=flat-square" alt="Beta 0.1V">
+  <img src="https://img.shields.io/badge/RELEASE-0.1V-E5484D?style=flat-square" alt="Release 0.1V">
   <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-5865F2?style=flat-square" alt="Development">
 </p>
 
-ReimaginedOS **0.1V is in beta testing**. Join the Discord, test it, report what breaks — testers get a **custom role**.
+ReimaginedOS **0.1V is out** — this is a beta, but it's tested and stable. Get it on [GitHub Releases](https://github.com/cr1mix/ReimaginedOS/releases), run it, send your feedback on Discord if you can!
+
+> [!CAUTION]
+> **Extreme preset is still unstable.** It can break things like Wi-Fi. Use **Balanced** until it is fixed in the next build.
 
 <p align="center">
-  <a href="https://discord.gg/NjkgT7vXBb">
-    <img src="https://img.shields.io/badge/BETA_TEST_NOW-GET_A_CUSTOM_ROLE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Beta test now">
+  <a href="https://github.com/cr1mix/ReimaginedOS/releases">
+    <img src="https://img.shields.io/badge/DOWNLOAD-0.1V-E5484D?style=for-the-badge&logo=github&logoColor=white" alt="Download ReimaginedOS 0.1V">
   </a>
 </p>
 
@@ -297,9 +319,9 @@ ReimaginedOS is a Windows optimization playbook for AME Wizard focused on perfor
 </details>
 
 <details>
-<summary><strong>How do I join the beta?</strong></summary>
+<summary><strong>Where do I get ReimaginedOS?</strong></summary>
 <br>
-Join the <a href="https://discord.gg/NjkgT7vXBb">Discord</a>, test version 0.1V and report what breaks. Beta testers get a <strong>custom role</strong>.
+Grab version 0.1V on <a href="https://github.com/cr1mix/ReimaginedOS/releases">GitHub Releases</a> (playbook + source code) and report what breaks on <a href="https://discord.gg/NjkgT7vXBb">Discord</a>.
 </details>
 
 <details>
@@ -331,7 +353,7 @@ Yes. You can keep Defender enabled, configure selected settings, or disable it i
 <details>
 <summary><strong>Will I get the same results shown above?</strong></summary>
 <br>
-Not necessarily. The ~50 process and ~1 GB RAM figures are approximate, measured on a Windows 11 25H2 beta test configuration.<br><br>
+Not necessarily. The ~50 process and ~1 GB RAM figures are approximate, measured on a Windows 11 25H2 test configuration.<br><br>
 Results depend on hardware, drivers, Windows build, installed software and the options selected in the playbook.
 </details>
 
