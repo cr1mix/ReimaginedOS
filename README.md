@@ -1,30 +1,32 @@
-<div align="center">
+ <div align="center">
   <picture>
     <img src="https://github.com/cr1mix/ReimaginedOS/blob/main/banner.png?raw=true" alt="ReimaginedOS Banner" width="800" height="auto">
   </picture>
 
-<div>
   <p>
-    <a href="https://github.com/cr1mix/ReimaginedOS/releases" aria-label="Get ReimaginedOS">
+    <a href="https://github.com/cr1mix/ReimaginedOS/releases">
       <img src="https://img.shields.io/badge/RELEASE-0.1V-E5484D?style=for-the-badge&logo=windows11&logoColor=white" alt="Release 0.1V">
     </a>
     <img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0d0d10?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
     <img src="https://img.shields.io/badge/ARCH-AMD64-E5484D?style=for-the-badge" alt="Architecture">
-    <a href="https://discord.gg/NjkgT7vXBb" aria-label="Discord">
+    <a href="https://github.com/cr1mix/ReimaginedOS/releases">
+      <img src="https://img.shields.io/github/downloads/cr1mix/ReimaginedOS/total?style=for-the-badge&logo=github&label=DOWNLOADS&color=E5484D" alt="Total Downloads">
+    </a>
+    <a href="https://discord.gg/NjkgT7vXBb">
       <img src="https://img.shields.io/badge/Discord-ReimaginedOS-0d0d10?style=for-the-badge&logo=discord&logoColor=white&labelColor=E5484D" alt="Discord">
     </a>
-    <a href="https://reimaginedos.pages.dev" aria-label="Site">
+    <a href="https://reimaginedos.pages.dev">
       <img src="https://img.shields.io/badge/Site-reimaginedos.pages.dev-0d0d10?style=for-the-badge&logo=cloudflare&logoColor=E5484D" alt="Site">
     </a>
   </p>
 </div>
+
 ---
 
 <div align="center">
 
 <table align="center" width="85%">
 <tr>
-
 <td width="65%" align="center">
 
 <h2>Windows, reimagined.</h2>
@@ -32,29 +34,27 @@
 ReimaginedOS is a Windows optimization playbook for <strong>AME Wizard</strong>.
 
 <br>
+
 Built for a <strong>complete tweaked PC</strong> — not just debloat:
 auto-tuning, driver profiles and custom tools.
 
-
 <br>
-
 
 Almost every tweak is optional. Choose what you want to change,
 skip what you don't, and keep the parts of Windows you still use.
 A small core (branding, diagnostics, boot safety) always applies.
 A reboot is required after applying.
+
 <br>
 
 <strong>Performance · Debloat · Privacy · Gaming</strong>
 
 </td>
-
 <td width="35%" align="center">
 
 <img src="https://github.com/user-attachments/assets/66d99414-6fb3-4e9e-9f81-a9ceda98a479" width="200" alt="ReimaginedOS Playbook">
 
 </td>
-
 </tr>
 </table>
 
@@ -118,7 +118,7 @@ Instead of applying one fixed configuration to every system, the playbook lets y
 
 **Auto-Tuning** — CPU vendor, chassis and thermals are detected at apply time, then matched power, parking and undervolt settings are applied. Skipped on battery and in VMs.
 
-**NVIDIA profiles** — two driver profiles, picked automatically by chassis and applied silently:
+**NVIDIA profiles** — Two driver profiles, picked automatically by chassis and applied silently:
 
 <div align="center">
 
@@ -251,6 +251,7 @@ ReimaginedOS **0.1V is out** and runs through **AME Wizard**.
 
 > [!TIP]
 > **Most of what applies is what you select.** A small core (branding, diagnostics, boot safety) always applies. A fresh, stock Windows installation is recommended before applying the playbook.
+>
 > Run it, report what breaks on [Discord](https://discord.gg/NjkgT7vXBb).
 
 ---
@@ -308,65 +309,83 @@ ReimaginedOS **0.1V is out** — this is a beta, but it's tested and stable. Get
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/cr1mix/ReimaginedOS/releases">
+    <img src="https://img.shields.io/github/downloads/cr1mix/ReimaginedOS/total?style=for-the-badge&logo=github&label=TOTAL%20DOWNLOADS&color=E5484D" alt="Total Downloads">
+  </a>
+</p>
+
 ---
 
 ## FAQ
 
 <details>
 <summary><strong>What is ReimaginedOS?</strong></summary>
-<br>
+
 ReimaginedOS is a Windows optimization playbook for AME Wizard focused on performance, debloating, privacy, gaming and system configuration.
+
 </details>
 
 <details>
 <summary><strong>Where do I get ReimaginedOS?</strong></summary>
-<br>
-Grab version 0.1V on <a href="https://github.com/cr1mix/ReimaginedOS/releases">GitHub Releases</a> (playbook + source code) and report what breaks on <a href="https://discord.gg/NjkgT7vXBb">Discord</a>.
+
+Grab version 0.1V on [GitHub Releases](https://github.com/cr1mix/ReimaginedOS/releases) (playbook + source code) and report what breaks on [Discord](https://discord.gg/NjkgT7vXBb).
+
 </details>
 
 <details>
 <summary><strong>Does ReimaginedOS automatically remove things?</strong></summary>
-<br>
+
 Only some things. Important ones like Microsoft Store, Defender, Updates and Copilot are always asked about before removing.
+
 </details>
 
 <details>
 <summary><strong>Can I keep things I still use?</strong></summary>
-<br>
+
 Yes. If you still use a Windows component, service or feature, simply skip its option in the playbook.
+
 </details>
 
 <details>
 <summary><strong>Do I need AME Wizard?</strong></summary>
-<br>
-Yes. ReimaginedOS is designed to run through AME Wizard.<br><br>
-<a href="https://download.ameliorated.io/AME%20Beta.zip">Get AME Wizard →</a>
+
+Yes. ReimaginedOS is designed to run through AME Wizard.
+
+[Get AME Wizard →](https://download.ameliorated.io/AME%20Beta.zip)
+
 </details>
 
 <details>
 <summary><strong>Can I keep Windows Defender?</strong></summary>
-<br>
-Yes. You can keep Defender enabled, configure selected settings, or disable it if you use another security solution.<br><br>
-<strong>Warning:</strong> Disabling security features can reduce system security.
+
+Yes. You can keep Defender enabled, configure selected settings, or disable it if you use another security solution.
+
+**Warning:** Disabling security features can reduce system security.
+
 </details>
 
 <details>
 <summary><strong>Will I get the same results shown above?</strong></summary>
-<br>
-Not necessarily. The ~50 process and ~1 GB RAM figures are approximate, measured on a Windows 11 25H2 test configuration.<br><br>
+
+Not necessarily. The ~50 process and ~1 GB RAM figures are approximate, measured on a Windows 11 25H2 test configuration.
+
 Results depend on hardware, drivers, Windows build, installed software and the options selected in the playbook.
+
 </details>
 
 <details>
 <summary><strong>Which Windows versions are supported?</strong></summary>
-<br>
+
 Windows 10 22H2 and Windows 11 23H2, 24H2 / LTSC and 25H2 on AMD64.
+
 </details>
 
 <details>
 <summary><strong>Is the ToolBox open source?</strong></summary>
-<br>
-Yes: <a href="https://github.com/cr1mix/reimaginedOS_toolbox">github.com/cr1mix/reimaginedOS_toolbox</a> — inspect it and contribute.
+
+Yes: [github.com/cr1mix/reimaginedOS_toolbox](https://github.com/cr1mix/reimaginedOS_toolbox) — inspect it and contribute.
+
 </details>
 
 ---
@@ -393,7 +412,7 @@ Yes: <a href="https://github.com/cr1mix/reimaginedOS_toolbox">github.com/cr1mix/
 <br>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="170" height="170" alt="𝕮𝖗1𝖒𝖎𝖝">
+  <img src="https://avatars.githubusercontent.com/u/220206221?v=4" width="170" height="170" alt="𝕮𝖗1𝖒1𝖝">
 </p>
 
 <h2 align="center">𝕮𝖗1𝖒𝖎𝖝</h2>
@@ -411,7 +430,7 @@ Yes: <a href="https://github.com/cr1mix/reimaginedOS_toolbox">github.com/cr1mix/
 <br>
 
 <p align="center">
-© 2026 𝕮𝖗1𝖒𝖎𝖝 · ReimaginedOS
+  © 2026 𝕮𝖗1𝖒𝖎𝖝 · ReimaginedOS
 </p>
 
 <p align="center">
